@@ -90,8 +90,8 @@ skills = {
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn Profile](https://br.linkedin.com/in/007will)
-- ✉️ rocha@email.com
-- 📷 [@will_dev]([https://twitter.com/007Will](https://www.instagram.com/willams.dev/))
+- 🎮 Discord - 007will
+- 📷 [@will_dev](https://www.instagram.com/willams.dev)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=007will&label=Profile%20Views&color=blueviolet&style=flat)
 
