@@ -22,8 +22,6 @@ skills = {
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=007will&show_icons=true&theme=radical&hide_border=true)
-  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=007will&layout=compact&theme=radical&hide_border=true)
   
   ![Streak Stats](https://streak-stats.demolab.com/?user=007will&theme=radical&hide_border=true)
@@ -40,35 +38,6 @@ skills = {
 4. 📦 Released new version of utility-library
 5. 👥 Collaborated on open-source project XYZ
 <!--END_SECTION:activity-->
-
-## 🌟 Featured Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/007will/lojinha">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=007will&repo=cloud-optimizer&theme=dark" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/007will/playground">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=007will&repo=microservice-framework&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/007will/gitInit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=007will&repo=devops-automation&theme=dark" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/007will/translated-content">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=007will&repo=data-pipeline&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ## 💼 Professional Experience
 
