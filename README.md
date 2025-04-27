@@ -1,16 +1,23 @@
-## Hi there 👋
+Welcome to My GitHub Profile! 👋
+LinkedIn
+GitHub Followers
 
-<!--
-**007will/007will** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Will, a passionate Software Engineer with expertise in Backend Development, Cloud Computing, and DevOps. I love building scalable systems and solving complex problems with code.
 
-Here are some ideas to get you started:
+🚀 Technologies & Skills
+python
+skills = {
+    "languages": ["Python", "JavaScript", "Java", "Go"],
+    "backend": ["Django", "Flask", "Node.js", "Spring Boot"],
+    "cloud": ["AWS", "GCP", "Docker", "Kubernetes", "Terraform"],
+    "databases": ["PostgreSQL", "MongoDB", "Redis", "DynamoDB"],
+    "devops": ["CI/CD Pipelines", "GitHub Actions", "Jenkins", "ArgoCD"],
+    "other": ["Microservices", "REST APIs", "GraphQL", "Serverless"]
+}
+📊 GitHub Stats
+<div align="center">
+GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Top Languages
+
+Streak Stats
