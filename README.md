@@ -46,24 +46,24 @@ skills = {
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/007will/cloud-optimizer">
+      <a href="https://github.com/007will/lojinha">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=007will&repo=cloud-optimizer&theme=dark" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/007will/microservice-framework">
+      <a href="https://github.com/007will/playground">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=007will&repo=microservice-framework&theme=dark" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/007will/devops-automation">
+      <a href="https://github.com/007will/gitInit">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=007will&repo=devops-automation&theme=dark" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/007will/data-pipeline">
+      <a href="https://github.com/007will/translated-content">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=007will&repo=data-pipeline&theme=dark" />
       </a>
     </td>
@@ -91,7 +91,7 @@ skills = {
 
 - 💼 [LinkedIn Profile](https://br.linkedin.com/in/007will)
 - ✉️ rocha@email.com
-- 🐦 [@will_dev](https://twitter.com/007Will)
+- 📷 [@will_dev]([https://twitter.com/007Will](https://www.instagram.com/willams.dev/))
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=007will&label=Profile%20Views&color=blueviolet&style=flat)
 
