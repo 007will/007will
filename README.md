@@ -29,14 +29,16 @@ skills = {
   ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=007will&theme=react-dark&hide_border=true&area=true)
 </div>
 
-## 🔥 Recent Activity
+## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/007will/awesome-project/pull/42) in awesome-project
-2. 🚀 Deployed v1.2.0 of cloud-optimizer to production
-3. 🛠️ Fixed critical bug in authentication middleware
-4. 📦 Released new version of utility-library
-5. 👥 Collaborated on open-source project XYZ
+🛠️ Automated tests with Cypress and Selenium for software validation.
+🐞 Detected and reported critical bugs during QA cycles.
+🚀 Delivered system and website QA for projetoagroifg.com.br.
+📦 Optimized databases and backend code in freelance projects.
+👨‍💻 Enhanced website performance and fixed frontend issues.
+🔧 Applied Git/GitHub version control in all development activities.
+🎯 Acted in Agile teams, focusing on quality and process improvement.
 <!--END_SECTION:activity-->
 
 ## 💼 Professional Experience
