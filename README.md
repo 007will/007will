@@ -18,16 +18,10 @@ skills = {
 
 ```
 
-## 📊 GitHub Stats
+## 📊 Linkedin
 
-<div align="center">
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=007will&layout=compact&theme=radical&hide_border=true)
-  
-  ![Streak Stats](https://streak-stats.demolab.com/?user=007will&theme=radical&hide_border=true)
-  
-  ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=007will&theme=react-dark&hide_border=true&area=true)
-</div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="007will" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/007will?trk=profile-badge">José Rocha</a></div>
+              
 
 ## 📈 Recent Activity
 
