@@ -21,13 +21,13 @@ skills = {
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-🛠️ Automated tests with Cypress and Selenium for software validation.
-🐞 Detected and reported critical bugs during QA cycles.
-🚀 Delivered system and website QA for projetoagroifg.com.br.
-📦 Optimized databases and backend code in freelance projects.
-👨‍💻 Enhanced website performance and fixed frontend issues.
-🔧 Applied Git/GitHub version control in all development activities.
-🎯 Acted in Agile teams, focusing on quality and process improvement.
+1. 🛠️ Automated tests with Cypress and Selenium for software validation.
+2. 🐞 Detected and reported critical bugs during QA cycles.
+3. 🚀 Delivered system and website QA for projetoagroifg.com.br.
+4. 📦 Optimized databases and backend code in freelance projects.
+5. 👨‍💻 Enhanced website performance and fixed frontend issues.
+6. 🔧 Applied Git/GitHub version control in all development activities.
+7. 🎯 Acted in Agile teams, focusing on quality and process improvement.
 <!--END_SECTION:activity-->
 
 ## 💼 Professional Experience
