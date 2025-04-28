@@ -9,13 +9,13 @@ Hi, I'm **Will**, a passionate **Software Engineer** with expertise in **Full St
 
 ```python
 skills = {
-    "languages": ["Python", "JavaScript", "Java", "Go"],
-    "backend": ["Django", "Flask", "Node.js", "Spring Boot"],
-    "cloud": ["AWS", "GCP", "Docker", "Kubernetes", "Terraform"],
-    "databases": ["PostgreSQL", "MongoDB", "Redis", "DynamoDB"],
-    "devops": ["Azure DevOps", "CI/CD Pipelines", "GitHub Actions", "Jenkins", "ArgoCD"],
-    "other": ["Microservices", "REST APIs", "GraphQL", "Serverless"]
+    "languages": ["Java", "PHP", "JavaScript", "MySQL"],
+    "testing": ["Manual Testing", "Automated Testing", "Cypress", "Functional Testing", "Regression Testing", "Integration Testing", "Usability Testing"],
+    "qa_tools": ["GitHub", "Test Automation Frameworks"],
+    "methodologies": ["Agile Methodologies", "Requirements Analysis", "Bug Identification", "Development Process Optimization"],
+    "projects": ["projetoagroifg.com.br (system and website)"]
 }
+
 ```
 
 ## 📊 GitHub Stats
