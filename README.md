@@ -18,11 +18,6 @@ skills = {
 
 ```
 
-## 📊 Linkedin
-
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="007will" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/007will?trk=profile-badge">José Rocha</a></div>
-              
-
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
