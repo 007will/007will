@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=header"/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Jos%C3%A9+Willams;I'm+Brazilian;Software+quality+engineer+-+Jr;Welcome+to+my+humble+page!;Welcome+to+my+humble+page!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Jos%C3%A9+Willams;I'm+Brazilian;Software+quality+engineer+-+Jr;Welcome+to+my+humble+page!;Welcome+to+my+humble+page!" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/007will)
 [![GitHub Followers](https://img.shields.io/github/followers/007will?label=Follow&style=for-the-badge)](https://github.com/007will?tab=followers)
