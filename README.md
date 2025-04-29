@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=header"/>
-<img width=100% src="https://img.icons8.com/?size=100&id=118557&format=png&color=000000"/>
+<img src="https://img.icons8.com/?size=100&id=118557&format=png&color=000000"/>
 <center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Jos%C3%A9+Willams;I'm+Brazilian;Software+quality+engineer+-+Jr;Welcome+to+my+humble+page!;Welcome+to+my+humble+page!" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/007will)
