@@ -1,4 +1,6 @@
-# Welcome to My GitHub Profile! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Jos%C3%A9+Willams;I'm+Brazilian;Software+quality+engineer+-+Jr;Welcome+to+my+humble+page!;Welcome+to+my+humble+page!)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/007will)
 [![GitHub Followers](https://img.shields.io/github/followers/007will?label=Follow&style=for-the-badge)](https://github.com/007will?tab=followers)
@@ -8,8 +10,9 @@ Hi, I'm **Will**, a passionate **Software Engineer** with expertise in **Full St
 ## 🚀 Technologies & Skills
 
 ```python
-skills = {
-    "languages": ["Java", "PHP", "JavaScript", "MySQL"],
+skills =
+{
+    "languages": ["Java", "PHP", "JavaScript", "Kotlin", "React"],
     "testing": ["Manual Testing", "Automated Testing", "Cypress", "Functional Testing", "Regression Testing", "Integration Testing", "Usability Testing"],
     "qa_tools": ["GitHub", "Test Automation Frameworks"],
     "methodologies": ["Agile Methodologies", "Requirements Analysis", "Bug Identification", "Development Process Optimization"],
@@ -56,3 +59,5 @@ skills = {
 ![Visitor Count](https://komarev.com/ghpvc/?username=007will&label=Profile%20Views&color=blueviolet&style=flat)
 
 **"First, solve the problem. Then, write the code."** - John Johnson
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=footer"/>
