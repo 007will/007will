@@ -1,26 +1,28 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=header"/>
+<!-- Banner ou frase de destaque -->
+# 👋 Olá, eu sou o José Willams
 
-<center> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Jos%C3%A9+Willams;I'm+Brazilian;Software+quality+engineer+-+Jr;Welcome+to+my+humble+page!;Welcome+to+my+humble+page!" alt="Typing SVG" /></a> <center>
-    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/007will)
-[![GitHub Followers](https://img.shields.io/github/followers/007will?label=Follow&style=for-the-badge)](https://github.com/007will?tab=followers)
+💻 QA | Automation Tester | DevOps Enthusiast  
+🚀 Explorando automação de testes, CI/CD e DevOps  
+🌱 Sempre aprendendo mais sobre **Cypress, Playwright, APIs, Docker e Azure DevOps**  
 
-Hi, I'm **Will**, a passionate **Software Engineer** with expertise in **Full Stack Development, Cloud Computing and Quality Assurance**. I love building scalable systems and solving complex problems with code.
+---
 
-## 🚀 Technologies & Skills
+## 🌐 Conecte-se comigo
+<p align="left">
+  <a href="https://linkedin.com/in/007will" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/007will" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:rocha@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-```python
-skills =
-{
-    "languages": ["Java", "PHP", "JavaScript", "Kotlin", "React"],
-    "testing": ["Manual Testing", "Automated Testing", "Cypress", "Functional Testing", "Regression Testing", "Integration Testing", "Usability Testing"],
-    "qa_tools": ["GitHub", "Test Automation Frameworks"],
-    "methodologies": ["Agile Methodologies", "Requirements Analysis", "Bug Identification", "Development Process Optimization"],
-    "projects": ["projetoagroifg.com.br (system and website)"]
-}
+---
 
-```
-## 🚀 Tech Arsenal
+## ⚡ Tech Arsenal
 
 <p align="center">
   <!-- QA & Testes -->
@@ -44,42 +46,28 @@ skills =
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/>
 </p>
 
-## 📈 Recent Activity
+---
 
-<!--START_SECTION:activity-->
-1. 🛠️ Automated tests with Cypress and Selenium for software validation.
-2. 🐞 Detected and reported critical bugs during QA cycles.
-3. 🚀 Delivered system and website QA for projetoagroifg.com.br.
-4. 📦 Optimized databases and backend code in freelance projects.
-5. 👨‍💻 Enhanced website performance and fixed frontend issues.
-6. 🔧 Applied Git/GitHub version control in all development activities.
-7. 🎯 Acted in Agile teams, focusing on quality and process improvement.
-<!--END_SECTION:activity-->
+## 📊 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=007will&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=007will&layout=compact&theme=radical" height="150"/>
+</p>
 
-## 💼 Professional Experience
+---
 
-**Junior Software Engineer** @ W4D. (2023-2024)  
-- Led migration of monolithic architecture to microservices
-- Reduced cloud costs by 40% through optimization
-- Implemented CI/CD pipelines reducing deployment time by 75%
+## 🔥 Minhas Contribuições
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=007will&theme=radical&hide_border=true"/>
+</p>
 
-**Software Developer** @ Freelance (2023-2025)  
-- Developed high-performance REST APIs
-- Built automated testing framework
-- Mentored junior developers
+---
 
-## 🎓 Education
+## 🚀 Projetos em Destaque
+- 🔎 [Automação de Testes com Cypress](https://github.com/007will/diretorio_automation)  
+- 📦 [Projeto Docker + QA](https://github.com/007will/azure_s)  
+- ✅ [Testes Automatizados - Playwright](https://github.com/007will/sicero_automation)  
 
-**Systems Analysis and Development** - UDF - Cruzeiro do Sul University (2022-2015)  
-**Sypress Skills** - Kiwify (2025-2015)
+---
 
-## 📫 Let's Connect!
-
-- 💼 [LinkedIn Profile](https://br.linkedin.com/in/007will)
-- 🎮 Discord - 007will
-- 📷 [@will_dev](https://www.instagram.com/willams.dev)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=007will&label=Profile%20Views&color=blueviolet&style=flat)
-
-**"First, solve the problem. Then, write the code."** - John Johnson
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=footer"/>
+⭐️ Feito com dedicação por **José Willams Barbosa da Rocha**  
