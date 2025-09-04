@@ -1,9 +1,8 @@
-<!-- Banner ou frase de destaque -->
 # 👋 Olá, eu sou o José Willams
 
 💻 QA | Automation Tester | DevOps Enthusiast  
 🚀 Explorando automação de testes, CI/CD e DevOps  
-🌱 Sempre aprendendo mais sobre **Cypress, Playwright, APIs, Docker e Azure DevOps**  
+🌱 Sempre aprendendo mais sobre **Cypress, Playwright, APIs, Docker, Azure DevOps e Cloud**  
 
 ---
 
@@ -18,7 +17,16 @@
   <a href="mailto:rocha@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/willams.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## 🎓 Formação & Certificação
+- 🎓 **Superior em Análise e Desenvolvimento de Sistemas – UDF-Cruzeiro do Sul (Concluído)**  
+- 📜 **Preparatório CTFL (ISTQB/BSTQB) – Em andamento**
 
 ---
 
@@ -48,6 +56,18 @@
 
 ---
 
+## 🛠 Experiência Relevante
+- **Assessoria e Serviços (PJ) – QA Jr / DevOps (Jan/2023 – Set/2025)**  
+  Automação de testes (Cypress, APIs), gestão de pipelines no Azure DevOps, versionamento Git, documentação de evidências e colaboração com o time de desenvolvimento.  
+
+- **Aw4 Engenharia (PJ) – QA Jr (Jan/2023 – Fev/2024)**  
+  Testes manuais e automatizados, automação com Cypress, Postman para APIs, consultas em DB2, homologação e evidências de testes.  
+
+- **New Comunication – Analista de Qualidade / QA (Jan/2020 – Jan/2023)**  
+  Certificações e validações funcionais em sistemas e sites institucionais, homologação e garantia da qualidade nas entregas.  
+
+---
+
 ## 📊 Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=007will&show_icons=true&theme=radical" height="150"/>
@@ -70,4 +90,4 @@
 
 ---
 
-⭐️ Feito com dedicação por **José Willams Barbosa da Rocha**  
+⭐ Feito com dedicação por **José Willams Barbosa da Rocha**  
