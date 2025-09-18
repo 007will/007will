@@ -1,4 +1,4 @@
-# 🌍 README em Dois Idiomas
+# <h6>🌍 README em Dois Idiomas</h6>
 
 <details open>
 <summary>🇧🇷 Versão em Português</summary>
