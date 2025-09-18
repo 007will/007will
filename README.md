@@ -39,7 +39,7 @@
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Arsenal de tecnologia
 
 <p align="center">
   <!-- QA & Testes -->
