@@ -78,7 +78,13 @@
 
 ## 🔥 Minhas Contribuições
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=007will&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <!-- Divider animado -->
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="divider" />
+</p>
+
+<p align="center">
+  <!-- GIF animado -->
+  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Contribuições animadas" />
 </p>
 
 ---
