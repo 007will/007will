@@ -8,10 +8,9 @@
   <img src="https://img.shields.io/badge/QUALITY%20ASSURANCE-4285F4?style=for-the-badge&logo=checkmarx&logoColor=white" alt="QA Badge"/>
 </p>
 
-
 💻 QA | Automation Tester | DevOps Enthusiast  
 🚀 Explorando automação de testes, CI/CD e DevOps  
-🌱 Sempre aprendendo mais sobre **Cypress, Playwright, APIs, Docker, Azure DevOps e Cloud**  
+🌱 Atualmente focado em **testes de API (Insomnia, Swagger, Postman), Docker, pipelines no Azure DevOps, e planilhas gráficas (Excel) para análise de resultados**  
 
 ---
 
@@ -48,6 +47,7 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/> Selenium | <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60"/> AWS |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> Express | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/> Postman | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> GitHub |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> Next.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/> Flask | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="40"/> Insomnia | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/> GitLab |
+|  |  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40"/> Swagger | 📊 Excel (Gráficos & Dashboards) |
 
 ---
 
@@ -57,12 +57,11 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> MongoDB | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40"/> GitHub Actions | 📌 Kanban, Scrum |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/> SQLite | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40"/> Trello | ✔️ Testes funcionais & manuais |
 
-
 ---
 
 ## 🛠 Experiência Relevante
 - **Assessoria e Serviços (PJ) – QA Jr / DevOps (Jan/2023 – Set/2025)**  
-  Automação de testes (Cypress, APIs), gestão de pipelines no Azure DevOps, versionamento Git, documentação de evidências e colaboração com o time de desenvolvimento.  
+  Automação de testes (Cypress, APIs), **Swagger + Insomnia para validação de APIs**, gestão de pipelines no Azure DevOps, Docker, relatórios com planilhas gráficas no Excel, versionamento Git e documentação de evidências.  
 
 - **Aw4 Engenharia (PJ) – QA Jr (Jan/2023 – Fev/2024)**  
   Testes manuais e automatizados, automação com Cypress, Postman para APIs, consultas em DB2, homologação e evidências de testes.  
@@ -82,13 +81,11 @@
 
 ## 🔥 Minhas Contribuições
 <p align="center">
-  <!-- Divider animado -->
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="divider" />
+  <img src="https://streak-stats.demolab.com?user=007will&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <!-- GIF animado -->
-  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Contribuições animadas" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=007will&theme=radical&hide_border=true" alt="Gráfico de Contribuições"/>
 </p>
 
 ---
@@ -114,10 +111,9 @@
   <img src="https://img.shields.io/badge/QUALITY%20ASSURANCE-4285F4?style=for-the-badge&logo=checkmarx&logoColor=white" alt="QA Badge"/>
 </p>
 
-
 💻 QA | Automation Tester | DevOps Enthusiast  
 🚀 Exploring test automation, CI/CD and DevOps  
-🌱 Always learning more about **Cypress, Playwright, APIs, Docker, Azure DevOps and Cloud**  
+🌱 Currently focused on **API testing (Insomnia, Swagger, Postman), Docker, Azure DevOps pipelines, and Excel dashboards for reporting**  
 
 ---
 
@@ -147,20 +143,20 @@
 
 ## ⚡ Tech Arsenal
 
-| Frontend | Backend | Testes & QA | DevOps & Cloud |
-|----------|---------|-------------|----------------|
+| Frontend | Backend | Testing & QA | DevOps & Cloud |
+|----------|---------|--------------|----------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> HTML5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="40"/> Cypress | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> Docker |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> CSS3 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40"/> Playwright | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> Azure DevOps |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/> Selenium | <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60"/> AWS |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> Express | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/> Postman | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> GitHub |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> Next.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/> Flask | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="40"/> Insomnia | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/> GitLab |
-
+|  |  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40"/> Swagger | 📊 Excel (Charts & Dashboards) |
 
 ---
 
 ## 🛠 Relevant Experience
 - **Assessoria e Serviços (PJ) – QA Jr / DevOps (Jan/2023 – Sep/2025)**  
-  Test automation (Cypress, APIs), Azure DevOps pipelines management, Git version control, evidence documentation, and team collaboration.  
+  Test automation (Cypress, APIs), **Swagger + Insomnia for API validation**, Azure DevOps pipelines, Docker, reporting with Excel dashboards, Git version control, and evidence documentation.  
 
 - **Aw4 Engenharia (PJ) – QA Jr (Jan/2023 – Feb/2024)**  
   Manual and automated testing, Cypress automation, API testing with Postman, DB2 queries, system validation, and test evidence documentation.  
@@ -180,13 +176,11 @@
 
 ## 🔥 My Contributions
 <p align="center">
-  <!-- Animated Divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="divider" />
+  <img src="https://streak-stats.demolab.com?user=007will&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <!-- Animated GIF -->
-  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Animated contributions" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=007will&theme=radical&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
