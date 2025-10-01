@@ -10,8 +10,7 @@
 <img src="https://img.shields.io/badge/QUALITY%20ASSURANCE-4285F4?style=for-the-badge&logo=checkmarx&logoColor=white" alt="QA Badge"/> 
 
 <p align="center">
-  <img alt="Neural Animation" height="326" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmPbeL0lcAccfF2YOojqnUI43rSLjIankO61BE4tiKXTzmggtL87bep-CDymbVKDXA35Rbk9HsFcaggssbEMR9BCAm07Em_XC2L62v0sczCP1uCYlgB1kpNutvCDHU0xajofUCH2r1BJVtB3YPcFOlPxs8LSh6acSrq3x4zP2VhlkUnelQRhuVuu2G_rCS/w696-h326/giphy.gif" width="696" />
-</p>
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJLTt5xNbJ3NpYtSUndTx3dsDnWYcfxQ80N8hsdGrr6H3btlgW87c3yKqJIZM26lR9bL8GTctCyxUdT7dviOteBIckOklTQXDYevHrsgckQlp3iIkowraaMhd_LESSMt6ewHlyIsw0iDC9kWbX5przGbGEULOQ6N9WZgiFegtsAXJPteGufAiQK17DNRRu/s1600/neutral.gif" style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="398" data-original-width="480" height="398" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJLTt5xNbJ3NpYtSUndTx3dsDnWYcfxQ80N8hsdGrr6H3btlgW87c3yKqJIZM26lR9bL8GTctCyxUdT7dviOteBIckOklTQXDYevHrsgckQlp3iIkowraaMhd_LESSMt6ewHlyIsw0iDC9kWbX5przGbGEULOQ6N9WZgiFegtsAXJPteGufAiQK17DNRRu/w719-h398/neutral.gif" width="719" /></a></div></p>
 
 💻 QA | Automation Tester | DevOps Enthusiast  
 🚀 Explorando automação de testes, CI/CD e DevOps  
