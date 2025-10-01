@@ -94,7 +94,7 @@
 
 ---
 
-⭐ Feito com dedicação por **José Willams Barbosa da Rocha**  
+⭐ Feito com dedicação por **José Willams**  
 
 </div>
 
