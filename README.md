@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/badge/QUALITY%20ASSURANCE-4285F4?style=for-the-badge&logo=checkmarx&logoColor=white" alt="QA Badge"/> 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRkMTVlY244NHVnYjBxNmFlZmxzbnN0cG1uZ251a241ZGF0b2sxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eGEQEVCJBmVT7qyPvM/giphy.gif" width="100%" alt="Neural Animation"/>
+  <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRkMTVlY244NHVnYjBxNmFlZmxzbnN0cG1uZ251a241ZGF0b2sxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eGEQEVCJBmVT7qyPvM/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRkMTVlY244NHVnYjBxNmFlZmxzbnN0cG1uZ251a241ZGF0b2sxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eGEQEVCJBmVT7qyPvM/giphy.gif)" width="100%" alt="Neural Animation"/>
 </p>
 
 
