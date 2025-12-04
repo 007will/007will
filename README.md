@@ -9,10 +9,10 @@
 
 <img src="https://img.shields.io/badge/QUALITY%20ASSURANCE-4285F4?style=for-the-badge&logo=checkmarx&logoColor=white" alt="QA Badge"/> 
 
+<!-- GIF NOVO E ESTÁVEL -->
 <p align="center">
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGv4Ao57LOzK17TISTUT424H3MHi6zLFNPGvYfQg3IaQilBcK35VxEBFfuXu-4cym9OyEK4AA4C4u0qR6BvQHYENek1HoNsjkI__uPvl2klDaSFW9gMTGKt-E2M5wJaVTRvuuyuPLraWtOSw5WAsgitOt3jFDAUeCPKEfOZq4oip7fHZjevdR3LewkvcKr/s480/neutral.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="398" data-original-width="480" height="265" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGv4Ao57LOzK17TISTUT424H3MHi6zLFNPGvYfQg3IaQilBcK35VxEBFfuXu-4cym9OyEK4AA4C4u0qR6BvQHYENek1HoNsjkI__uPvl2klDaSFW9gMTGKt-E2M5wJaVTRvuuyuPLraWtOSw5WAsgitOt3jFDAUeCPKEfOZq4oip7fHZjevdR3LewkvcKr/w718-h265/neutral.gif" width="718" /></a></div><br /><p></p>
+<img src="https://media4.giphy.com/media/eGEQEVCJBmVT7qyPvM/giphy.gif" width="900"/>
 </p>
-
 
 💻 QA | Automation Tester | DevOps Enthusiast  
 🚀 Explorando automação de testes, CI/CD e DevOps  
@@ -66,9 +66,9 @@
 
 ## 🔥 Minhas Contribuições  
 
-<img src="https://streak-stats.demolab.com?user=007will&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>  
+<img src="https://streak-stats.demolab.com?user=007will&theme=radical&hide_border=true" height="180"/>  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=007will&theme=radical&hide_border=true" alt="Gráfico de Contribuições"/>  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=007will&theme=radical&hide_border=true"/>
 
 ---
 
@@ -97,8 +97,9 @@
 
 <img src="https://img.shields.io/badge/QUALITY%20ASSURANCE-4285F4?style=for-the-badge&logo=checkmarx&logoColor=white" alt="QA Badge"/> 
 
+<!-- GIF ESTÁVEL TAMBÉM NA VERSÃO INGLESA -->
 <p align="center">
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGv4Ao57LOzK17TISTUT424H3MHi6zLFNPGvYfQg3IaQilBcK35VxEBFfuXu-4cym9OyEK4AA4C4u0qR6BvQHYENek1HoNsjkI__uPvl2klDaSFW9gMTGKt-E2M5wJaVTRvuuyuPLraWtOSw5WAsgitOt3jFDAUeCPKEfOZq4oip7fHZjevdR3LewkvcKr/s480/neutral.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="398" data-original-width="480" height="265" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGv4Ao57LOzK17TISTUT424H3MHi6zLFNPGvYfQg3IaQilBcK35VxEBFfuXu-4cym9OyEK4AA4C4u0qR6BvQHYENek1HoNsjkI__uPvl2klDaSFW9gMTGKt-E2M5wJaVTRvuuyuPLraWtOSw5WAsgitOt3jFDAUeCPKEfOZq4oip7fHZjevdR3LewkvcKr/w718-h265/neutral.gif" width="718" /></a></div><br /><p></p>
+<img src="https://media4.giphy.com/media/eGEQEVCJBmVT7qyPvM/giphy.gif" width="900"/>
 </p>
 
 💻 QA | Automation Tester | DevOps Enthusiast  
@@ -153,9 +154,9 @@
 
 ## 🔥 My Contributions  
 
-<img src="https://streak-stats.demolab.com?user=007will&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>  
+<img src="https://streak-stats.demolab.com?user=007will&theme=radical&hide_border=true" height="180"/>  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=007will&theme=radical&hide_border=true" alt="Contribution Graph"/>  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=007will&theme=radical&hide_border=true"/>
 
 ---
 
