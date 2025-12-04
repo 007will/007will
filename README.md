@@ -1,88 +1,87 @@
-<!-- README PREMIUM - José Willams (PT-BR / EN) -->
+<!-- README PREMIUM - Minimal Professional Style -->
 
 <div align="center">
 
 <!-- Banner -->
-<p align="center">
-  <img src="./qa_banner_neon.png" alt="Quality Assurance Banner" width="100%"/>
-</p>
+<img src="./qa_banner_minimal.png" width="100%" alt="José Willams - QA Engineer Banner"/>
 
-# 👋 Olá, eu sou o José Willams  
-<img src="https://img.shields.io/badge/QUALITY%20ASSURANCE-4285F4?style=for-the-badge&logo=checkmarx&logoColor=white" alt="QA Badge"/>
+<br>
 
-<!-- Typing animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DejaVu+Sans&pause=1000&width=650&lines=QA+Engineer;Automation+%7C+DevOps;API+Testing+%7C+CI%2FCD)
+# 👋 José Willams  
+**Quality Assurance • Test Automation • DevOps Enthusiast**
 
-**💻 QA | Automation Tester | DevOps Enthusiast**  
-🚀 Explorando automação de testes, CI/CD e DevOps  
-🌱 Atualmente focado em **testes de API (Insomnia, Swagger, Postman), Docker, pipelines no Azure DevOps, e planilhas gráficas (Excel) para análise de resultados**
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=300&size=20&pause=1200&color=6F6F6F&center=true&vCenter=true&width=500&lines=Quality+Assurance;Test+Automation;API+Testing;CI%2FCD+%7C+Azure+DevOps;Always+learning+and+improving" />
 
 ---
 
-## 🌐 Conecte-se comigo
+### 🌱 Sobre mim
+Sou **Engenheiro de Qualidade (QA)** com experiência em automação, testes de API, pipelines e DevOps.  
+Atualmente focado em:
+
+- Automação com **Cypress e Playwright**  
+- Testes de API (**Swagger, Insomnia, Postman**)  
+- Pipelines CI/CD (**Azure DevOps**)  
+- Contêineres e ambientes com **Docker**  
+- Dashboards e relatórios avançados com **Excel**  
+
+Busco sempre entregar valor, qualidade e melhorias contínuas ao time e ao produto.
+
+---
+
+## 📬 Conecte-se comigo
 <p align="center">
-  <a href="https://linkedin.com/in/007will" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/007will" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a>
-  <a href="mailto:rocha@email.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/willams.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/007will"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/007will"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="mailto:rocha@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/willams.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🔎 About Me
+## 🧩 Tecnologias que utilizo
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,java,python" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=cypress,playwright,selenium,postman,swagger,insomnia" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,azure,git,github,gitlab,mysql,mongodb" />
+</p>
+
+---
+
+## 📊 GitHub Insights
 <div align="center">
-
-**José Willams Barbosa da Rocha** — Engenheiro de Qualidade e Automação com experiência em projetos PJ e empresas.  
-Especialista em automação com **Cypress, Playwright**, testes de **API (Swagger / Insomnia / Postman)**, e integração em **Azure DevOps**. Forte ênfase em **CI/CD**, **Docker** e relatórios com **Excel**.
-
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=007will&show_icons=true&theme=graywhite&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=007will&layout=compact&theme=graywhite&hide_border=true" />
 </div>
 
 ---
 
-## ⚡ Arsenal tecnológico (linha com ícones)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,python,docker,azure,git,github,gitlab,postman,cypress,playwright,selenium,insomnia,swagger" />
-</p>
-
----
-
-## 🛠 Principais stacks (resumo)
-- **Testes & QA:** Cypress, Playwright, Selenium, Postman, Insomnia, Swagger  
-- **DevOps & Infra:** Docker, Azure DevOps, GitHub Actions, GitLab  
-- **Linguagens:** JavaScript, Java, Python, SQL  
-- **DB / Tools:** MySQL, MongoDB, SQLite, Excel (dashboards)  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=007will&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=007will&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-## 🔥 Contribuições & Atividade
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=007will&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=007will&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
-</p>
+## 🔥 Atividade recente
+<div align="center">
+  <img height="150" src="https://streak-stats.demolab.com?user=007will&theme=neutral&hide_border=true" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=007will&bg_color=ffffff&color=6f6f6f&line=6f6f6f&point=3f3f3f&hide_border=true" width="100%"/>
+</div>
 
 ---
 
 ## 🚀 Projetos em destaque
-- 🔎 [Automação de Testes com Cypress](https://github.com/007will/diretorio_automation)  
-- 📦 [Projeto Docker + QA](https://github.com/007will/azure_s)  
-- ✅ [Testes Automatizados - Playwright](https://github.com/007will/sicero_automation)  
+
+- 🔎 **Cypress Automation Suite**  
+  https://github.com/007will/diretorio_automation  
+
+- 📦 **Docker + QA Environment**  
+  https://github.com/007will/azure_s  
+
+- 🎯 **Playwright Automation Library**  
+  https://github.com/007will/sicero_automation  
 
 ---
 
-## 📂 Recursos (links rápidos)
-- 📄 [Currículo (PDF)](./Curriculo_Jose_Willams_QA-Set-2025.docx)  
-- 🧾 Certificações: CTFL (em andamento)  
+### 📝 Nota Final
+Feito com dedicação e foco na simplicidade.  
+**José Willams Barbosa da Rocha**
 
----
-
-⭐ Feito com dedicação por **José Willams**  
-
+</div>
