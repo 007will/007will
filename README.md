@@ -96,14 +96,9 @@ Busco constantemente melhorar processos, garantir qualidade e entregar valor ao 
 
 ## 🚀 Projetos em destaque
 
-🔹 **Cypress Automation Suite**  
-https://github.com/007will/diretorio_automation  
-
-🔹 **Docker + QA Environment**  
-https://github.com/007will/azure_s  
-
-🔹 **Playwright Automation Library**  
-https://github.com/007will/sicero_automation  
+🔹 https://github.com/007will/d_automation  
+🔹 https://github.com/007will/azure_s  
+🔹 https://github.com/007will/AgiBank  
 
 ---
 
