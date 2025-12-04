@@ -13,6 +13,8 @@
 
 <img src="https://raw.githubusercontent.com/007will/007will/main/banner_neon.png" width="100%" />
 
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfMAgSlf7O4Bh5w-hArQvxwG442bsXiijnvcm2QwehmVuiA0BFiJWP3jucNDjVOlqKbdW3NRo41xhp_fDyEfkj29sq1EgN626FMDEdHBpA6w0DJkbxv2rHUaT_vNdj3w2Y9pwnEGa_KQFTan5C58OqfLdhUIiJGK2ENsFPg4NVANXv8JmrcdvQ1ou1UPVa/s1600/007will.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" data-original-height="1024" data-original-width="1536" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfMAgSlf7O4Bh5w-hArQvxwG442bsXiijnvcm2QwehmVuiA0BFiJWP3jucNDjVOlqKbdW3NRo41xhp_fDyEfkj29sq1EgN626FMDEdHBpA6w0DJkbxv2rHUaT_vNdj3w2Y9pwnEGa_KQFTan5C58OqfLdhUIiJGK2ENsFPg4NVANXv8JmrcdvQ1ou1UPVa/s1600/007will.png"/></a></div>
+
 # 👋 José Willams
 
 ✨ <b>Quality Assurance • Test Automation • DevOps Enthusiast</b>  
