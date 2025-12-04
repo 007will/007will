@@ -26,11 +26,8 @@
 Sou **Engenheiro de Qualidade (QA)** com foco em automação, pipelines e testes de API.  
 Atualmente trabalho com:
 
-🔹 **Automação de testes:** Cypress • Playwright  
-🔹 **Testes de API:** Swagger • Insomnia • Postman  
-🔹 **CI/CD:** Pipelines no Azure DevOps  
-🔹 **Containers:** Docker  
-🔹 **Relatórios e dashboards:** Excel avançado  
+🔹 **Automação de testes:** Cypress • Playwright  🔹 **Testes de API:** Swagger • Insomnia • Postman  
+🔹 **CI/CD:** Pipelines no Azure DevOps  🔹 **Containers:** Docker  🔹 **Relatórios e dashboards:** Excel avançado  
 
 Busco constantemente melhorar processos, garantir qualidade e entregar valor ao produto e ao time.
 
@@ -69,13 +66,6 @@ Busco constantemente melhorar processos, garantir qualidade e entregar valor ao 
 
 ---
 
-## 📊 GitHub Insights
-
-<img src="https://github-readme-stats.vercel.app/api?username=007will&show_icons=true&theme=radical" height="150"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=007will&layout=compact&theme=radical" height="150"/> 
-
----
-
 ## 🔥 Atividade recente
 
 <img src="https://streak-stats.demolab.com?user=007will&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>  
@@ -85,12 +75,7 @@ Busco constantemente melhorar processos, garantir qualidade e entregar valor ao 
 
 ## 🚀 Projetos em destaque
 
-🔹 https://github.com/007will/AgiBank  
-🔹 https://github.com/007will/d_automation  
-🔹 https://github.com/007will/azure_s  
-🔹 https://github.com/007will/s_automation
-🔹 https://github.com/007will/cyskills
-🔹 https://github.com/007will/FB  
+🔹 https://github.com/007will/AgiBank  🔹 https://github.com/007will/d_automation  🔹 https://github.com/007will/azure_s  🔹 https://github.com/007will/cyskills  🔹 https://github.com/007will/FB  
 
 ---
 
@@ -122,11 +107,7 @@ I am a **Quality Engineer (QA)** focused on automation, pipelines and API testin
 
 Currently working with:
 
-🔹 **Automation:** Cypress • Playwright  
-🔹 **API Testing:** Swagger • Insomnia • Postman  
-🔹 **CI/CD Pipelines:** Azure DevOps  
-🔹 **Containers:** Docker  
-🔹 **Dashboards:** Excel analytics & reports  
+🔹 **Automation:** Cypress • Playwright  🔹 **API Testing:** Swagger • Insomnia • Postman  🔹 **CI/CD Pipelines:** Azure DevOps  🔹 **Containers:** Docker  🔹 **Dashboards:** Excel analytics & reports  
 
 ---
 
@@ -162,13 +143,6 @@ Currently working with:
 
 ---
 
-## 📊 GitHub Insights
-
-<img src="https://github-readme-stats.vercel.app/api?username=007will&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=007will&layout=compact&theme=tokyonight" height="150"/>
-
----
-
 ## 🔥 Recent Activity
 
 <img src="https://streak-stats.demolab.com?user=007will&theme=tokyonight&hide_border=true" height="180"/>
@@ -177,12 +151,7 @@ Currently working with:
 
 ## 🚀 Featured Projects
 
-🔹 https://github.com/007will/AgiBank  
-🔹 https://github.com/007will/d_automation  
-🔹 https://github.com/007will/azure_s  
-🔹 https://github.com/007will/s_automation
-🔹 https://github.com/007will/cyskills
-🔹 https://github.com/007will/FB 
+🔹 https://github.com/007will/AgiBank  🔹 https://github.com/007will/d_automation  🔹 https://github.com/007will/azure_s  🔹 https://github.com/007will/cyskills  🔹 https://github.com/007will/FB  
 
 ---
 
