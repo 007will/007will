@@ -71,22 +71,26 @@ Busco constantemente melhorar processos, garantir qualidade e entregar valor ao 
 
 ## 📊 GitHub Insights
 
-<img src="https://github-readme-stats.vercel.app/api?username=007will&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=007will&layout=compact&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=007will&show_icons=true&theme=radical" height="150"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=007will&layout=compact&theme=radical" height="150"/> 
 
 ---
 
 ## 🔥 Atividade recente
 
-<img src="https://streak-stats.demolab.com?user=007will&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=007will&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>  
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=007will&theme=radical&hide_border=true" alt="Gráfico de Contribuições"/> 
 ---
 
 ## 🚀 Projetos em destaque
 
+🔹 https://github.com/007will/AgiBank  
 🔹 https://github.com/007will/d_automation  
 🔹 https://github.com/007will/azure_s  
-🔹 https://github.com/007will/AgiBank  
+🔹 https://github.com/007will/s_automation
+🔹 https://github.com/007will/cyskills
+🔹 https://github.com/007will/FB  
 
 ---
 
@@ -173,9 +177,12 @@ Currently working with:
 
 ## 🚀 Featured Projects
 
+🔹 https://github.com/007will/AgiBank  
 🔹 https://github.com/007will/d_automation  
 🔹 https://github.com/007will/azure_s  
-🔹 https://github.com/007will/AgiBank  
+🔹 https://github.com/007will/s_automation
+🔹 https://github.com/007will/cyskills
+🔹 https://github.com/007will/FB 
 
 ---
 
