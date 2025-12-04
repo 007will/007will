@@ -174,9 +174,9 @@ Currently working with:
 
 ## 🚀 Featured Projects
 
-🔹 https://github.com/007will/diretorio_automation  
+🔹 https://github.com/007will/d_automation  
 🔹 https://github.com/007will/azure_s  
-🔹 https://github.com/007will/sicero_automation  
+🔹 https://github.com/007will/s_automation  
 
 ---
 
