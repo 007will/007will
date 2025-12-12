@@ -10,7 +10,7 @@
 <summary>🇧🇷 <b>Versão em Português</b></summary>
 
 <div align="center">
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3uqs6oLdS1CKq0B3dJPqDSgZimzlix4y7k7hiAWs96zXs3NepAKBZcroFlWRLv9OqbmBouFMvAB5hswiitxQu3DLoPuLjOAWXNyzPHkQtIeDlB5T_899O_63OO8IOTuM8xGaVqbXM646pdP1jrragL7i-0MOvcmIz0Ngm91ifit1wfUSfL7eIt_Z-sxPK/s7228/Controle-de-qualidade.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2641" data-original-width="7228" height="234" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3uqs6oLdS1CKq0B3dJPqDSgZimzlix4y7k7hiAWs96zXs3NepAKBZcroFlWRLv9OqbmBouFMvAB5hswiitxQu3DLoPuLjOAWXNyzPHkQtIeDlB5T_899O_63OO8IOTuM8xGaVqbXM646pdP1jrragL7i-0MOvcmIz0Ngm91ifit1wfUSfL7eIt_Z-sxPK/w640-h234/Controle-de-qualidade.jpg" width="640" /></a></div><br /><p></p>
+<p>&nbsp;<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3uqs6oLdS1CKq0B3dJPqDSgZimzlix4y7k7hiAWs96zXs3NepAKBZcroFlWRLv9OqbmBouFMvAB5hswiitxQu3DLoPuLjOAWXNyzPHkQtIeDlB5T_899O_63OO8IOTuM8xGaVqbXM646pdP1jrragL7i-0MOvcmIz0Ngm91ifit1wfUSfL7eIt_Z-sxPK/s7228/Controle-de-qualidade.jpg" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="2641" data-original-width="7228" height="305" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3uqs6oLdS1CKq0B3dJPqDSgZimzlix4y7k7hiAWs96zXs3NepAKBZcroFlWRLv9OqbmBouFMvAB5hswiitxQu3DLoPuLjOAWXNyzPHkQtIeDlB5T_899O_63OO8IOTuM8xGaVqbXM646pdP1jrragL7i-0MOvcmIz0Ngm91ifit1wfUSfL7eIt_Z-sxPK/w835-h305/Controle-de-qualidade.jpg" width="835" /></a></p><p></p>
 
 # 👋 José Willams
 
