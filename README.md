@@ -67,7 +67,8 @@ Busco constantemente melhorar processos, garantir qualidade e entregar valor ao 
 
 ## 🔥 Atividade recente
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=007Will&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=007will&mode=weekly" alt="GitHub Streak" /></a>
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=007will&theme=radical&hide_border=true" alt="Gráfico de Contribuições"/> 
 ---
