@@ -67,8 +67,6 @@ Busco constantemente melhorar processos, garantir qualidade e entregar valor ao 
 
 ## 🔥 Atividade recente
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=007will&theme=radical&hide_border=true" alt="Gráfico de Contribuições"/> 
 ---
 
