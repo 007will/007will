@@ -10,8 +10,7 @@
 <summary>🇧🇷 <b>Versão em Português</b></summary>
 
 <div align="center">
-
-<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfMAgSlf7O4Bh5w-hArQvxwG442bsXiijnvcm2QwehmVuiA0BFiJWP3jucNDjVOlqKbdW3NRo41xhp_fDyEfkj29sq1EgN626FMDEdHBpA6w0DJkbxv2rHUaT_vNdj3w2Y9pwnEGa_KQFTan5C58OqfLdhUIiJGK2ENsFPg4NVANXv8JmrcdvQ1ou1UPVa/s1600/007will.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" data-original-height="1024" data-original-width="1536" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfMAgSlf7O4Bh5w-hArQvxwG442bsXiijnvcm2QwehmVuiA0BFiJWP3jucNDjVOlqKbdW3NRo41xhp_fDyEfkj29sq1EgN626FMDEdHBpA6w0DJkbxv2rHUaT_vNdj3w2Y9pwnEGa_KQFTan5C58OqfLdhUIiJGK2ENsFPg4NVANXv8JmrcdvQ1ou1UPVa/s1600/007will.png"/></a></div>
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEj7TLg9YHgwhPLlvlcod-p67ag7WOVdWvgzFpQzTylPkphnqTBjaD1sJYJQ6oz7d7g_yt-gFdkSKV5zwg5ZA-j3ZorqB6yL6P74VlKjIxE3hqiQmqJjZ2rrfeUa8FsaTW0-B-bx3pp0ciPp1r9D0xBW_7qVX1exa2ofQMRELY-UbKnDqdsn_PuDQX1n4wEn" style="margin-left: 1em; margin-right: 1em;"><img data-original-height="943" data-original-width="1222" height="494" src="https://blogger.googleusercontent.com/img/a/AVvXsEj7TLg9YHgwhPLlvlcod-p67ag7WOVdWvgzFpQzTylPkphnqTBjaD1sJYJQ6oz7d7g_yt-gFdkSKV5zwg5ZA-j3ZorqB6yL6P74VlKjIxE3hqiQmqJjZ2rrfeUa8FsaTW0-B-bx3pp0ciPp1r9D0xBW_7qVX1exa2ofQMRELY-UbKnDqdsn_PuDQX1n4wEn=w640-h494" width="640" /></a></div><br /><p></p>
 
 # 👋 José Willams
 
