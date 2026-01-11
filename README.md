@@ -1,5 +1,5 @@
 <div align="center">
-# 👋 José Willams | QA Engineer & Test Automation
+<h1># 👋 José Willams | QA Engineer & Test Automation</h1>
 </div>
 <div align="center">
 
