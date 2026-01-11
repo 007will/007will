@@ -1,3 +1,4 @@
+<div align="center">
 # 👋 José Willams | QA Engineer & Test Automation
 
 <div align="center">
