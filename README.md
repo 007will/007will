@@ -1,90 +1,85 @@
 <div align="center">
-<h1># 👋 José Willams | QA Engineer & Test Automation</h1>
-</div>
-<div align="center">
-
-**Quality Assurance Engineer | Test Automation | CI/CD Enthusiast**  
-Cypress • Playwright • API Testing • GitHub Actions • Azure DevOps
-
-<a href="https://linkedin.com/in/007will"><img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin"></a>
-<a href="https://github.com/007will"><img src="https://img.shields.io/badge/GitHub-Portfolio-111?style=for-the-badge&logo=github"></a>
-
+<h1>👋 José Willams — QA Engineer • Test Automation</h1>
 </div>
 
----
+**Quality Assurance Engineer | Test Automation | SDET** — Cypress • Playwright • API Testing • GitHub Actions • CI/CD
 
-## 🎯 Professional Summary
-
-I am a **Quality Assurance Engineer (QE/QA)** with strong focus on **test automation, quality processes and CI/CD pipelines**.  
-My experience covers **end-to-end UI testing, API validation, test architecture design and automation strategy**.
-
-I work with real-world projects that demonstrate **code quality, maintainability and scalability**, not just test scripts.
+- **Localização:** Brasil
+- **Contato:** willams@outlook.com.br • rocha@email.com • (61) 98442-9451 / (61) 99514-4029
+- **LinkedIn:** https://www.linkedin.com/in/007will • **GitHub:** https://github.com/007will
 
 ---
 
-## 🧠 Core Skills
+Resumo profissional
 
-- **Test Automation:** Cypress, Playwright  
-- **API Testing:** REST, Postman, Insomnia, Swagger  
-- **Test Architecture:** Page Object Model (POM), Data Factory, Utils  
-- **CI/CD:** GitHub Actions, Azure DevOps Pipelines  
-- **Languages:** JavaScript, TypeScript, Java (basic), Python (basic)  
-- **DevOps & Tools:** Docker, Git, GitHub, GitLab  
-- **Reporting:** Allure Reports, evidence-driven QA  
-- **QA Practices:** Test planning, test cases, bug reports, regression strategy  
+Sou engenheiro de QA com foco em automação de testes, qualidade de software e pipelines CI/CD. Atuo com automação de UI e API, desenho de arquitetura de testes e integração contínua em projetos reais e escaláveis.
 
 ---
 
-## 🧪 Featured QA Projects (Portfolio)
+Skills (palavras-chave para ATS)
 
-### 🔹 QA Automation – AgiBank (Main Project)
-**Cypress UI + API Automation | CI/CD | Best Practices**
-
-- UI and API automated tests  
-- Clean architecture with POM and Utils  
-- Dynamic data generation  
-- GitHub Actions pipeline  
-- Professional documentation  
-
-👉 https://github.com/007will/AgiBank
+- Test Automation: Cypress, Playwright
+- API Testing: REST, Postman, Swagger
+- CI/CD: GitHub Actions, Azure DevOps
+- Reporting: Allure, Mochawesome
+- Test Design: POM, data-driven testing, hooks
+- Languages: JavaScript, TypeScript, (básico) Java, Python
+- DevOps: Docker, Git
 
 ---
 
-### 🔹 Cypress Automation Playground
-Focused on automation patterns, commands and reusable components.
+Formação e cursos relevantes
 
-👉 https://github.com/007will/d_automation
-
----
-
-### 🔹 CI/CD & Cloud Experiments
-Pipelines, Azure DevOps, automation execution flows.
-
-👉 https://github.com/007will/azure_s
+- Graduação: Análise e Desenvolvimento de Sistemas — Faculdade UDF
+- Cypress Skills — Fernando Papito (Kiwify)
+- Testando Componentes com Cypress — Fernando Papito (Udemy)
+- Orientação a Objetos com Java — Jackson Pires (Udemy)
+- Algoritmos e Lógica de Programação — Nélio Alves (Udemy)
+- Javascript Avançado — Eduardo Mafra (Udemy)
+- Preparatório Certificação CTFL (ISTQB/BSTQB) — Leonardo Carvalho (Udemy)
 
 ---
 
-## 🚀 What You Will Find in My GitHub
+Experiência selecionada (resumo)
 
-✔ Real automation projects (not tutorials)  
-✔ Structured repositories with documentation  
-✔ CI pipelines running automated tests  
-✔ Clear README files for recruiters and tech leads  
-✔ Evidence of QA engineering mindset  
-
----
-
-## 📈 GitHub Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=007will&theme=github-compact&hide_border=true"/>
+- QE — Automação de Testes e API (Projetos PJ) — Aw4 Engenharia (02/2024 – atual)
+  - Planejamento e automação com Cypress e Playwright; automação de APIs; CI/CD em Azure DevOps; suporte a homologações.
+- QA — Análise e Solução de Problemas — Projeto Agro IFG — Aw4 Engenharia (01/2022 – 02/2024)
+  - Testes funcionais, criação de casos de teste, validação contínua e correção de bugs.
+- QA / QE — Desenvolvimento, Testes e Validação — LojaHost Soluções Web (MEI) (2014 – 2023)
+  - Atuação completa no ciclo de qualidade de sistemas web: testes funcionais, regressivos, exploratórios, estabilidade e integridade de dados.
 
 ---
 
-## 📬 Contact
+Projetos em destaque
 
-- 💼 LinkedIn: https://linkedin.com/in/007will  
-- 📧 Email: renome@live.com  
+- AgiBank — UI + API Automation (Cypress, POM, CI com GitHub Actions) — https://github.com/007will/AgiBank
+- Cypress Automation Playground — patterns, comandos reutilizáveis e utilitários — https://github.com/007will/d_automation
+- CI/CD & Cloud Experiments — pipelines e execuções com Azure DevOps — https://github.com/007will/azure_s
+- Business Directory Automation — E2E suites, sanitização de relatórios e workflow CI — https://github.com/007will/Business-Directory-Automation
+
+Cada repositório inclui README com instruções para execução local, badges de CI (quando disponíveis) e artefatos de relatório (Allure / Mochawesome).
 
 ---
 
-⭐ This profile is continuously evolving with new QA automation projects and improvements.
+Como avaliar meu trabalho
+
+- Verifique os READMEs dos projetos e badges de CI
+- Abra a Actions tab para visualizar runs e baixar artifacts (`mochawesome-report`, `raw-results`)
+- Execute localmente: `npm ci` seguido de `npm run test:ci` para reproduzir execuções headless
+
+---
+
+Disponibilidade
+
+- Modalidade: PJ / Contrato / Remoto
+
+---
+
+Currículo e materiais
+
+- CV (PDF): anexo disponível. Posso publicar um link público para o currículo se desejar.
+
+---
+
+Se quiser, eu aplico este `README.md` diretamente no repositório de perfil (`007will/007will`) — ou posso criar um commit numa branch aqui e gerar o texto pronto para colar na sua página de perfil.
