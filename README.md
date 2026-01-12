@@ -75,6 +75,6 @@ Como avaliar meu trabalho
 
 Disponibilidade
 
-- Modalidade: PJ / Contrato / Remoto
+- Modalidade: PJ / Contrato / Remoto / Outros.
 
 ---
