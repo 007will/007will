@@ -5,9 +5,6 @@
 **Quality Assurance Engineer | Test Automation | SDET** — Cypress • Playwright • API Testing • GitHub Actions • CI/CD
 
 - **Localização:** Brasil
-- **Contato:** renome@live.com
-- **LinkedIn:** https://www.linkedin.com/in/007will • **GitHub:** https://github.com/007will
-
 - **Telegram:** https://t.me/WillamsRocha
 
 ---
