@@ -16,7 +16,6 @@
 <a href="mailto:renome@live.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://instagram.com/007willl"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
----
 
 ## 🧩 Tecnologias que utilizo
 
@@ -39,12 +38,10 @@
 </tr>
 </table>
 </div>
----
 
 ## 🔥 Atividade recente
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=007will&theme=radical&hide_border=true" alt="Gráfico de Contribuições"/> 
----
 
 Resumo profissional
 
@@ -109,14 +106,12 @@ Como avaliar meu trabalho
 - Abra a Actions tab para visualizar runs e baixar artifacts (`mochawesome-report`, `raw-results`)
 - Execute localmente: `npm ci` seguido de `npm run test:ci` para reproduzir execuções headless
 
-<a href="https://github.com/sponsors/007will" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-007will-critical?logo=github&style=flat-square"
-  alt="Sponsor 007will on GitHub" />
-</a>
----
 
 Disponibilidade
 
 - Modalidade: PJ / Contrato / Remoto / Outros.
 
----
+<a href="https://github.com/sponsors/007will" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-007will-critical?logo=github&style=flat-square"
+  alt="Sponsor 007will on GitHub" />
+</a>
