@@ -3,14 +3,47 @@
 </div>
 
 **Quality Assurance Engineer | Test Automation | SDET** — Cypress • Playwright • API Testing • GitHub Actions • CI/CD
-<a href="https://github.com/007will"><img src="https://img.shields.io/badge/GitHub-Portfolio-111?style=for-the-badge&logo=github"></a>
 
 - **Localização:** Brasil - **Telegram:** https://t.me/WillamsRocha
 
-## 📈 GitHub Activity
+<div align="center">
+<p>&nbsp;<a href="https://github.com/007will" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="2641" data-original-width="7228" height="424" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3uqs6oLdS1CKq0B3dJPqDSgZimzlix4y7k7hiAWs96zXs3NepAKBZcroFlWRLv9OqbmBouFMvAB5hswiitxQu3DLoPuLjOAWXNyzPHkQtIeDlB5T_899O_63OO8IOTuM8xGaVqbXM646pdP1jrragL7i-0MOvcmIz0Ngm91ifit1wfUSfL7eIt_Z-sxPK/w1159-h424/Controle-de-qualidade.jpg" width="1159" /></a></p><p></p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=007will&theme=github-compact&hide_border=true"/>
+## 🌐 Conecte-se comigo
 
+<a href="https://linkedin.com/in/007will"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/007will"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:renome@live.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://instagram.com/007willl"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+---
+
+## 🧩 Tecnologias que utilizo
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+| Frontend | Backend | Testing & QA | DevOps & Cloud |
+|----------|---------|--------------|----------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> HTML5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="40"/> Cypress | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> Docker |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> CSS3 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40"/> Playwright | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> Azure DevOps |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/> Selenium | <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60"/> AWS |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> Express | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/> Postman | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> GitHub |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> Next.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/> Flask | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="40"/> Insomnia | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/> GitLab |
+|  |  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40"/> Swagger | 📊 Excel (Charts & Dashboards) |
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 Atividade recente
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=007will&theme=radical&hide_border=true" alt="Gráfico de Contribuições"/> 
 ---
 
 Resumo profissional
