@@ -109,8 +109,10 @@ Como avaliar meu trabalho
 - Abra a Actions tab para visualizar runs e baixar artifacts (`mochawesome-report`, `raw-results`)
 - Execute localmente: `npm ci` seguido de `npm run test:ci` para reproduzir execuções headless
 
-- <iframe src="https://github.com/sponsors/007will/button" title="Sponsor 007will" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-
+<a href="https://github.com/sponsors/007will" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-007will-critical?logo=github&style=flat-square"
+  alt="Sponsor 007will on GitHub" />
+</a>
 ---
 
 Disponibilidade
