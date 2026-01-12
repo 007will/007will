@@ -3,8 +3,13 @@
 </div>
 
 **Quality Assurance Engineer | Test Automation | SDET** — Cypress • Playwright • API Testing • GitHub Actions • CI/CD
+<a href="https://github.com/007will"><img src="https://img.shields.io/badge/GitHub-Portfolio-111?style=for-the-badge&logo=github"></a>
 
 - **Localização:** Brasil - **Telegram:** https://t.me/WillamsRocha
+
+## 📈 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=007will&theme=github-compact&hide_border=true"/>
 
 ---
 
