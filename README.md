@@ -53,11 +53,11 @@ Projetos em destaque
 
 - **QE-Automation-Cypress-Agibank (public)** — Suite completa de automação UI e API com Cypress. Estrutura em POM, geração de dados dinâmicos, validações end-to-end e pipeline CI (GitHub Actions) que gera relatórios Mochawesome/Allure. Ideal para avaliar práticas de arquitetura de testes e integração contínua. https://github.com/007will/AgiBank
 
-- **Playwright-Facebook-Automation-Project (public)** — Projeto com Playwright focado em automação de fluxos web complexos e testes cross-browser. Inclui exemplos de testes robustos, uso de fixtures e captura de evidências (screenshots/traces) para debugging. Útil para avaliar conhecimentos em Playwright e testes de UI resilientes.
+- **Playwright-Facebook-Automation-Project (public)** — Projeto com Playwright focado em automação de fluxos web complexos e testes cross-browser. Inclui exemplos de testes robustos, uso de fixtures e captura de evidências (screenshots/traces) para debugging. Útil para avaliar conhecimentos em Playwright e testes de UI resilientes. https://github.com/007will/Playwright-Facebook-Automation-Project
 
-- **Rockshaver-API-Docker-Tests (public)** — Conjunto de testes de API executados em containers Docker para ambientes isolados. Contém scripts para executar suites de validação de contratos, testes de contrato/integração e pipelines para execução automática. Mostra prática em testes de API e integração em CI.
+- **Rockshaver-API-Docker-Tests (public)** — Conjunto de testes de API executados em containers Docker para ambientes isolados. Contém scripts para executar suites de validação de contratos, testes de contrato/integração e pipelines para execução automática. Mostra prática em testes de API e integração em CI. https://github.com/007will/Rockshaver-API-Docker-Tests
 
-- **API_Automation_Project_Cypress (public)** — Projeto focado em automação de APIs com Cypress (ou similar), com exemplos de validações de contratos, mocks e integração com ferramentas de reporting. Demonstra design de testes API reutilizáveis e validação de respostas.
+- **API_Automation_Project_Cypress (public)** — Projeto focado em automação de APIs com Cypress (ou similar), com exemplos de validações de contratos, mocks e integração com ferramentas de reporting. Demonstra design de testes API reutilizáveis e validação de respostas. https://github.com/007will/API_Automation_Project_Cypress
 
 - **Business-Directory-Automation** — Repositório com suites E2E, scripts de sanitização de relatórios e workflow CI. Inclui trabalho em melhorar confiabilidade de testes, anonimização de dados e geração/merge de relatórios (mochawesome). https://github.com/007will/Business-Directory-Automation
 
@@ -78,11 +78,3 @@ Disponibilidade
 - Modalidade: PJ / Contrato / Remoto
 
 ---
-
-Currículo e materiais
-
-- CV (PDF): anexo disponível. Posso publicar um link público para o currículo se desejar.
-
----
-
-Se quiser, eu aplico este `README.md` diretamente no repositório de perfil (`007will/007will`) — ou posso criar um commit numa branch aqui e gerar o texto pronto para colar na sua página de perfil.
