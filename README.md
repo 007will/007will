@@ -8,6 +8,8 @@
 - **Contato:** renome@live.com
 - **LinkedIn:** https://www.linkedin.com/in/007will • **GitHub:** https://github.com/007will
 
+- **Telegram:** https://t.me/WillamsRocha
+
 ---
 
 Resumo profissional
