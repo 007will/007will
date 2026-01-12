@@ -53,12 +53,17 @@ Experiência selecionada (resumo)
 
 Projetos em destaque
 
-- AgiBank — UI + API Automation (Cypress, POM, CI com GitHub Actions) — https://github.com/007will/AgiBank
-- Cypress Automation Playground — patterns, comandos reutilizáveis e utilitários — https://github.com/007will/d_automation
-- CI/CD & Cloud Experiments — pipelines e execuções com Azure DevOps — https://github.com/007will/azure_s
-- Business Directory Automation — E2E suites, sanitização de relatórios e workflow CI — https://github.com/007will/Business-Directory-Automation
+- **QE-Automation-Cypress-Agibank (public)** — Suite completa de automação UI e API com Cypress. Estrutura em POM, geração de dados dinâmicos, validações end-to-end e pipeline CI (GitHub Actions) que gera relatórios Mochawesome/Allure. Ideal para avaliar práticas de arquitetura de testes e integração contínua. https://github.com/007will/AgiBank
 
-Cada repositório inclui README com instruções para execução local, badges de CI (quando disponíveis) e artefatos de relatório (Allure / Mochawesome).
+- **Playwright-Facebook-Automation-Project (public)** — Projeto com Playwright focado em automação de fluxos web complexos e testes cross-browser. Inclui exemplos de testes robustos, uso de fixtures e captura de evidências (screenshots/traces) para debugging. Útil para avaliar conhecimentos em Playwright e testes de UI resilientes.
+
+- **Rockshaver-API-Docker-Tests (public)** — Conjunto de testes de API executados em containers Docker para ambientes isolados. Contém scripts para executar suites de validação de contratos, testes de contrato/integração e pipelines para execução automática. Mostra prática em testes de API e integração em CI.
+
+- **API_Automation_Project_Cypress (public)** — Projeto focado em automação de APIs com Cypress (ou similar), com exemplos de validações de contratos, mocks e integração com ferramentas de reporting. Demonstra design de testes API reutilizáveis e validação de respostas.
+
+- **Business-Directory-Automation** — Repositório com suites E2E, scripts de sanitização de relatórios e workflow CI. Inclui trabalho em melhorar confiabilidade de testes, anonimização de dados e geração/merge de relatórios (mochawesome). https://github.com/007will/Business-Directory-Automation
+
+Cada repositório contém README com instruções para execução local, badges de CI (quando disponíveis) e artefatos de relatório (Mochawesome / Allure). Links diretos e instruções facilitam a avaliação técnica por recrutadores e líderes de engenharia.
 
 ---
 
