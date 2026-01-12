@@ -5,7 +5,7 @@
 **Quality Assurance Engineer | Test Automation | SDET** — Cypress • Playwright • API Testing • GitHub Actions • CI/CD
 
 - **Localização:** Brasil
-- **Contato:** willams@outlook.com.br • rocha@email.com • (61) 98442-9451 / (61) 99514-4029
+- **Contato:** renome@live.com
 - **LinkedIn:** https://www.linkedin.com/in/007will • **GitHub:** https://github.com/007will
 
 ---
