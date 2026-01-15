@@ -1,13 +1,44 @@
 <div align="center">
-<h1>👋 José Willams — QA Engineer • Test Automation</h1>
-</div>
 
-**Quality Assurance Engineer | Test Automation | SDET** — Cypress • Playwright • API Testing • GitHub Actions • CI/CD
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=QA%20Engineer&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Test%20Automation%20%E2%80%A2%20API%20Testing%20%E2%80%A2%20CI/CD&descAlignY=55"/>
 
-- **Localização:** Brasil - **Telegram:** https://t.me/WillamsRocha 
+<h1>👋 Olá, eu sou José Willams</h1>
 
-<div align="center">
-<p>&nbsp;<a href="https://github.com/007will" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="2641" data-original-width="7228" height="424" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3uqs6oLdS1CKq0B3dJPqDSgZimzlix4y7k7hiAWs96zXs3NepAKBZcroFlWRLv9OqbmBouFMvAB5hswiitxQu3DLoPuLjOAWXNyzPHkQtIeDlB5T_899O_63OO8IOTuM8xGaVqbXM646pdP1jrragL7i-0MOvcmIz0Ngm91ifit1wfUSfL7eIt_Z-sxPK/w1159-h424/Controle-de-qualidade.jpg" width="1159" /></a></p><p></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Test+Automation+%7C+SDET;Cypress+%E2%80%A2+Playwright+%E2%80%A2+API+Testing;CI%2FCD+%E2%80%A2+Azure+DevOps+%E2%80%A2+GitHub+Actions;95%25+de+Cobertura+de+Testes;10%2B+Bugs+Cr%C3%ADticos+Identificados;80%2B+Endpoints+Testados)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Experience-8%2B%20Years-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Projects-50%2B-blue?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Test%20Coverage-95%25-green?style=for-the-badge&logo=codecov&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bugs%20Found-10%2B%20Critical-red?style=for-the-badge&logo=bugatti&logoColor=white"/>
+
+<br/>
+
+📍 **Brasil** | 💬 [Telegram](https://t.me/WillamsRocha) | 💼 **Disponível para PJ/Remoto**
+
+---
+
+### 📌 Destaque do Momento
+
+🔥 **[Insomnia_Sync](https://github.com/007will/Insomnia_Sync)** → Versionamento profissional de 80+ collections de API  
+⭐ **[QE-Automation-Cypress-Agibank](https://github.com/007will/AgiBank)** → Suite completa E2E + CI/CD com GitHub Actions
+
+---
+
+<p>&nbsp;<a href="https://github.com/007will" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="2641" data-original-width="7228" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3uqs6oLdS1CKq0B3dJPqDSgZimzlix4y7k7hiAWs96zXs3NepAKBZcroFlWRLv9OqbmBouFMvAB5hswiitxQu3DLoPuLjOAWXNyzPHkQtIeDlB5T_899O_63OO8IOTuM8xGaVqbXM646pdP1jrragL7i-0MOvcmIz0Ngm91ifit1wfUSfL7eIt_Z-sxPK/w1159-h424/Controle-de-qualidade.jpg" width="1100" /></a></p>
+
+---
+
+### 📊 Estatísticas Rápidas
+
+| 🎯 Especialização | 📈 Impacto | 🚀 Stack Principal |
+|-------------------|------------|-------------------|
+| **QA Automation** | **95% Cobertura** | **Cypress • Playwright** |
+| **API Testing** | **80+ Endpoints** | **Insomnia • Postman** |
+| **CI/CD** | **70% Redução Tempo** | **Azure • GitHub Actions** |
+
+---
 
 ## 🌐 Conecte-se comigo
 
@@ -15,6 +46,7 @@
 <a href="https://github.com/007will"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:renome@live.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://instagram.com/007willl"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
 </div>
 
 ## 🧩 Tecnologias que utilizo
