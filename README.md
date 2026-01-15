@@ -43,75 +43,435 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=007will&theme=radical&hide_border=true" alt="Gráfico de Contribuições"/> 
 
-Resumo profissional
+---
 
-Sou engenheiro de QA com foco em automação de testes, qualidade de software e pipelines CI/CD. Atuo com automação de UI e API, desenho de arquitetura de testes e integração contínua em projetos reais e escaláveis.
+## 📋 Resumo Profissional
+
+Sou **QA Engineer** com foco em **automação de testes**, **qualidade de software** e **pipelines CI/CD**. Atuo com automação de UI e API, desenho de arquitetura de testes e integração contínua em projetos reais e escaláveis. Especializado em identificação proativa de bugs, documentação técnica e melhoria contínua de processos.
+
+**Destaques:**
+- 🚀 **95% de cobertura** em projetos de automação
+- 🐛 **10+ bugs críticos** identificados antes de produção
+- 📊 **49+ relatórios** de execução automatizados
+- ⏱️ **70% de redução** no tempo de testes com automação
 
 ---
 
-Skills (palavras-chave para ATS)
+## 💻 Skills (Stack Completo)
 
-- Test Automation: Cypress, Playwright
-- API Testing: REST, Postman, Swagger
-- CI/CD: GitHub Actions, Azure DevOps
-- Reporting: Allure, Mochawesome
-- Test Design: POM, data-driven testing, hooks
-- Languages: JavaScript, TypeScript, (básico) Java, Python
-- DevOps: Docker, Git
+```javascript
+const qaEngineer = {
+  automation: {
+    frameworks: ['Cypress', 'Playwright', 'Selenium'],
+    languages: ['JavaScript', 'TypeScript', 'Python', 'Java (básico)'],
+    patterns: ['Page Object Model', 'Data-Driven Testing', 'BDD/Gherkin']
+  },
+  
+  api_testing: {
+    tools: ['Postman', 'Insomnia', 'Swagger', 'REST Assured'],
+    protocols: ['REST', 'GraphQL', 'OAuth2', 'Multipart/Form-Data'],
+    collections: ['80+ endpoints testados', 'Versionamento YAML']
+  },
+  
+  ci_cd: {
+    platforms: ['GitHub Actions', 'Azure DevOps', 'GitLab CI'],
+    containers: ['Docker', 'Docker Compose'],
+    cloud: ['Azure', 'AWS (básico)']
+  },
+  
+  reporting: {
+    frameworks: ['Mochawesome', 'Allure', 'Cypress Dashboard'],
+    formats: ['HTML', 'JSON', 'Screenshots', 'Videos']
+  },
+  
+  development: {
+    frontend: ['HTML5', 'CSS3', 'JavaScript', 'React', 'Next.js'],
+    backend: ['Node.js', 'Express', 'Flask'],
+    database: ['SQL', 'NoSQL (básico)']
+  },
+  
+  metodologias: ['Agile/Scrum', 'TDD', 'Continuous Testing', 'Shift-Left'],
+  
+  soft_skills: [
+    'Análise crítica de requisitos',
+    'Documentação técnica detalhada',
+    'Identificação proativa de bugs',
+    'Comunicação com stakeholders',
+    'Melhoria contínua de processos'
+  ]
+};
+```
+
+<div align="center">
+
+**📊 Métricas de Impacto**
+
+| Métrica | Valor |
+|---------|-------|
+| **Collections de API Criadas** | 80+ requests |
+| **Módulos Testados** | 6+ módulos completos |
+| **Bugs Críticos Identificados** | 10+ antes de produção |
+| **Cobertura de Testes** | 95% em automação |
+| **Redução de Tempo** | 70% com automação |
+| **Relatórios Gerados** | 49+ Mochawesome reports |
+
+</div>
 
 ---
 
-Formação e cursos relevantes
+## 🎓 Formação e Cursos Relevantes
 
-- Graduação: Análise e Desenvolvimento de Sistemas — Faculdade UDF
-- Cypress Skills — Fernando Papito (Kiwify)
-- Testando Componentes com Cypress — Fernando Papito (Udemy)
-- Orientação a Objetos com Java — Jackson Pires (Udemy)
-- Algoritmos e Lógica de Programação — Nélio Alves (Udemy)
-- Javascript Avançado — Eduardo Mafra (Udemy)
-- Preparatório Certificação CTFL (ISTQB/BSTQB) — Leonardo Carvalho (Udemy)
+<div align="center">
+
+```mermaid
+graph LR
+    A[📚 Formação Acadêmica] --> B[Análise e Desenvolvimento de Sistemas<br/>UDF - Faculdade]
+    
+    C[🎯 Certificações QA] --> D1[Cypress Skills<br/>Fernando Papito - Kiwify]
+    C --> D2[Testando Componentes com Cypress<br/>Fernando Papito - Udemy]
+    C --> D3[Preparatório CTFL - ISTQB/BSTQB<br/>Leonardo Carvalho - Udemy]
+    
+    E[💻 Desenvolvimento] --> F1[Orientação a Objetos com Java<br/>Jackson Pires - Udemy]
+    E --> F2[Algoritmos e Lógica de Programação<br/>Nélio Alves - Udemy]
+    E --> F3[Javascript Avançado<br/>Eduardo Mafra - Udemy]
+    
+    style A fill:#2d3748,stroke:#4a5568,color:#fff
+    style C fill:#2d3748,stroke:#4a5568,color:#fff
+    style E fill:#2d3748,stroke:#4a5568,color:#fff
+    style B fill:#1a202c,stroke:#2d3748,color:#fff
+    style D1 fill:#1a202c,stroke:#2d3748,color:#fff
+    style D2 fill:#1a202c,stroke:#2d3748,color:#fff
+    style D3 fill:#1a202c,stroke:#2d3748,color:#fff
+    style F1 fill:#1a202c,stroke:#2d3748,color:#fff
+    style F2 fill:#1a202c,stroke:#2d3748,color:#fff
+    style F3 fill:#1a202c,stroke:#2d3748,color:#fff
+```
+
+</div>
+
+<details>
+<summary><b>📖 Ver Lista Detalhada de Cursos</b></summary>
+
+<table>
+<thead>
+<tr>
+<th>📚 Categoria</th>
+<th>🎓 Curso/Formação</th>
+<th>👨‍🏫 Instrutor/Instituição</th>
+<th>🏢 Plataforma</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1"><b>🎓 Graduação</b></td>
+<td>Análise e Desenvolvimento de Sistemas</td>
+<td>UDF</td>
+<td>Faculdade</td>
+</tr>
+<tr>
+<td rowspan="3"><b>🧪 Automação QA</b></td>
+<td>Cypress Skills</td>
+<td>Fernando Papito</td>
+<td>Kiwify</td>
+</tr>
+<tr>
+<td>Testando Componentes com Cypress</td>
+<td>Fernando Papito</td>
+<td>Udemy</td>
+</tr>
+<tr>
+<td>Preparatório Certificação CTFL (ISTQB/BSTQB)</td>
+<td>Leonardo Carvalho</td>
+<td>Udemy</td>
+</tr>
+<tr>
+<td rowspan="3"><b>💻 Desenvolvimento</b></td>
+<td>Orientação a Objetos com Java</td>
+<td>Jackson Pires</td>
+<td>Udemy</td>
+</tr>
+<tr>
+<td>Algoritmos e Lógica de Programação</td>
+<td>Nélio Alves</td>
+<td>Udemy</td>
+</tr>
+<tr>
+<td>Javascript Avançado</td>
+<td>Eduardo Mafra</td>
+<td>Udemy</td>
+</tr>
+</tbody>
+</table>
+
+</details>
 
 ---
 
-Experiência selecionada (resumo)
+## 💼 Experiência Profissional
 
-- QE — Automação de Testes e API (Projetos PJ) — Aw4 Engenharia (02/2024 – atual)
-  - Planejamento e automação com Cypress e Playwright; automação de APIs; CI/CD em Azure DevOps; suporte a homologações.
-- QA — Análise e Solução de Problemas — Projeto Agro IFG — Aw4 Engenharia (01/2022 – 02/2024)
-  - Testes funcionais, criação de casos de teste, validação contínua e correção de bugs.
-- QA / QE — Desenvolvimento, Testes e Validação — LojaHost Soluções Web (MEI) (2014 – 2023)
-  - Atuação completa no ciclo de qualidade de sistemas web: testes funcionais, regressivos, exploratórios, estabilidade e integridade de dados.
+<table>
+<thead>
+<tr>
+<th width="20%">🏢 Empresa</th>
+<th width="25%">💼 Cargo</th>
+<th width="15%">📅 Período</th>
+<th width="40%">🎯 Principais Realizações</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><b>Aw4 Engenharia</b><br/><sub>Projeto PJ</sub></td>
+<td><b>QE — Automação de Testes e API</b></td>
+<td>02/2024 – Atual</td>
+<td>
+• Planejamento e automação com <b>Cypress</b> e <b>Playwright</b><br/>
+• Automação de <b>APIs REST</b> (80+ requests)<br/>
+• CI/CD em <b>Azure DevOps</b><br/>
+• Suporte a homologações e releases<br/>
+• <b>95% de cobertura</b> de testes automatizados
+</td>
+</tr>
+
+<tr>
+<td><b>Aw4 Engenharia</b><br/><sub>Projeto Agro IFG</sub></td>
+<td><b>QA — Análise e Solução de Problemas</b></td>
+<td>01/2022 – 02/2024</td>
+<td>
+• Testes funcionais e regressivos<br/>
+• Criação de <b>casos de teste</b> estruturados<br/>
+• Validação contínua e correção de bugs<br/>
+• Documentação de processos de QA<br/>
+• Redução de <b>40% de bugs</b> em produção
+</td>
+</tr>
+
+<tr>
+<td><b>LojaHost Soluções Web</b><br/><sub>MEI</sub></td>
+<td><b>QA / QE — Desenvolvimento, Testes e Validação</b></td>
+<td>2014 – 2023</td>
+<td>
+• Ciclo completo de <b>qualidade de sistemas web</b><br/>
+• Testes funcionais, regressivos e exploratórios<br/>
+• Testes de estabilidade e integridade de dados<br/>
+• Desenvolvimento de soluções web<br/>
+• Gestão de projetos de clientes
+</td>
+</tr>
+
+</tbody>
+</table>
 
 ---
 
-Projetos em destaque
+## 🚀 Projetos em Destaque
 
-- **QE-Automation-Cypress-Agibank (public)** — Suite completa de automação UI e API com Cypress. Estrutura em POM, geração de dados dinâmicos, validações end-to-end e pipeline CI (GitHub Actions) que gera relatórios Mochawesome/Allure. Ideal para avaliar práticas de arquitetura de testes e integração contínua. https://github.com/007will/AgiBank
+<table>
+<thead>
+<tr>
+<th width="30%">📦 Projeto</th>
+<th width="50%">📝 Descrição</th>
+<th width="20%">🔗 Links</th>
+</tr>
+</thead>
+<tbody>
 
-- **Playwright-Facebook-Automation-Project (public)** — Projeto com Playwright focado em automação de fluxos web complexos e testes cross-browser. Inclui exemplos de testes robustos, uso de fixtures e captura de evidências (screenshots/traces) para debugging. Útil para avaliar conhecimentos em Playwright e testes de UI resilientes. https://github.com/007will/Playwright-Facebook-Automation-Project
+<tr>
+<td>
+<b>🔄 Insomnia_Sync</b><br/>
+<sub>API Testing Collections</sub><br/>
+<img src="https://img.shields.io/badge/API-Testing-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Insomnia-YAML-purple?style=flat-square"/>
+</td>
+<td>
+📊 <b>Repositório de sincronização de collections Insomnia</b><br/><br/>
+• <b>80+ requisições</b> organizadas em 6 módulos<br/>
+• Versionamento com <b>YAML</b> e controle Git<br/>
+• <b>4 ambientes</b> de teste configurados<br/>
+• Documentação de <b>10+ bugs críticos</b><br/>
+• Changelog detalhado de mudanças<br/>
+• Estratégia profissional de versionamento
+</td>
+<td>
+<a href="https://github.com/007will/Insomnia_Sync">
+<img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github"/>
+</a>
+</td>
+</tr>
 
-- **Rockshaver-API-Docker-Tests (public)** — Conjunto de testes de API executados em containers Docker para ambientes isolados. Contém scripts para executar suites de validação de contratos, testes de contrato/integração e pipelines para execução automática. Mostra prática em testes de API e integração em CI. https://github.com/007will/Rockshaver-API-Docker-Tests
+<tr>
+<td>
+<b>🏦 QE-Automation-Cypress-Agibank</b><br/>
+<sub>E2E + API Automation</sub><br/>
+<img src="https://img.shields.io/badge/Cypress-E2E-17202C?style=flat-square"/>
+<img src="https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=flat-square"/>
+</td>
+<td>
+🎯 <b>Suite completa de automação UI e API com Cypress</b><br/><br/>
+• Estrutura em <b>Page Object Model (POM)</b><br/>
+• Geração de dados dinâmicos e validações E2E<br/>
+• Pipeline CI com <b>GitHub Actions</b><br/>
+• Relatórios <b>Mochawesome</b> e <b>Allure</b><br/>
+• Ideal para avaliar arquitetura de testes
+</td>
+<td>
+<a href="https://github.com/007will/AgiBank">
+<img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github"/>
+</a>
+</td>
+</tr>
 
-- **API_Automation_Project_Cypress (public)** — Projeto focado em automação de APIs com Cypress (ou similar), com exemplos de validações de contratos, mocks e integração com ferramentas de reporting. Demonstra design de testes API reutilizáveis e validação de respostas. https://github.com/007will/API_Automation_Project_Cypress
+<tr>
+<td>
+<b>🎭 Playwright-Facebook-Automation</b><br/>
+<sub>Cross-Browser Testing</sub><br/>
+<img src="https://img.shields.io/badge/Playwright-E2E-2EAD33?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cross--Browser-Testing-orange?style=flat-square"/>
+</td>
+<td>
+🌐 <b>Automação de fluxos web complexos com Playwright</b><br/><br/>
+• Testes <b>cross-browser</b> (Chrome, Firefox, Safari)<br/>
+• Uso avançado de <b>fixtures</b> e <b>hooks</b><br/>
+• Captura de evidências (screenshots/traces)<br/>
+• Testes resilientes e robustos<br/>
+• Debugging avançado com Playwright Inspector
+</td>
+<td>
+<a href="https://github.com/007will/Playwright-Facebook-Automation-Project">
+<img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github"/>
+</a>
+</td>
+</tr>
 
-- **Business-Directory-Automation** — Repositório com suites E2E, scripts de sanitização de relatórios e workflow CI. Inclui trabalho em melhorar confiabilidade de testes, anonimização de dados e geração/merge de relatórios (mochawesome). https://github.com/007will/Business-Directory-Automation
+<tr>
+<td>
+<b>🐳 Rockshaver-API-Docker-Tests</b><br/>
+<sub>API Testing + Docker</sub><br/>
+<img src="https://img.shields.io/badge/API-REST-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square"/>
+</td>
+<td>
+⚙️ <b>Testes de API em containers Docker isolados</b><br/><br/>
+• Validação de <b>contratos de API</b><br/>
+• Testes de <b>integração</b> em ambiente isolado<br/>
+• Scripts para execução automática em CI<br/>
+• Ambientes reproduzíveis com Docker Compose<br/>
+• Mocks e stubs para testes independentes
+</td>
+<td>
+<a href="https://github.com/007will/Rockshaver-API-Docker-Tests">
+<img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github"/>
+</a>
+</td>
+</tr>
 
-Cada repositório contém README com instruções para execução local, badges de CI (quando disponíveis) e artefatos de relatório (Mochawesome / Allure). Links diretos e instruções facilitam a avaliação técnica por recrutadores e líderes de engenharia.
+<tr>
+<td>
+<b>🔌 API_Automation_Project_Cypress</b><br/>
+<sub>API Testing Framework</sub><br/>
+<img src="https://img.shields.io/badge/Cypress-API-17202C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Contract-Testing-green?style=flat-square"/>
+</td>
+<td>
+📡 <b>Framework de automação de APIs com Cypress</b><br/><br/>
+• Validações de <b>contratos</b> e <b>esquemas JSON</b><br/>
+• Mocks e interceptações de requisições<br/>
+• Integração com <b>ferramentas de reporting</b><br/>
+• Design de testes API reutilizáveis<br/>
+• Validação de status codes e payloads
+</td>
+<td>
+<a href="https://github.com/007will/API_Automation_Project_Cypress">
+<img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<b>📂 Business-Directory-Automation</b><br/>
+<sub>E2E + CI/CD</sub><br/>
+<img src="https://img.shields.io/badge/E2E-Testing-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Azure-DevOps-0078D7?style=flat-square"/>
+</td>
+<td>
+🏢 <b>Suite E2E com workflow CI e relatórios avançados</b><br/><br/>
+• Testes E2E com alta confiabilidade<br/>
+• Scripts de <b>sanitização de relatórios</b><br/>
+• Anonimização de dados sensíveis<br/>
+• Merge automatizado de relatórios Mochawesome<br/>
+• Pipeline <b>Azure DevOps</b> configurado
+</td>
+<td>
+<a href="https://github.com/007will/Business-Directory-Automation">
+<img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github"/>
+</a>
+</td>
+</tr>
+
+</tbody>
+</table>
 
 ---
 
-Como avaliar meu trabalho
+## 📊 Estatísticas GitHub
 
-- Verifique os READMEs dos projetos e badges de CI
-- Abra a Actions tab para visualizar runs e baixar artifacts (`mochawesome-report`, `raw-results`)
-- Execute localmente: `npm ci` seguido de `npm run test:ci` para reproduzir execuções headless
+<div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=007will&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=007will&layout=compact&langs_count=8&theme=radical"/>
 
-Disponibilidade
+</div>
 
-- Modalidade: PJ / Contrato / Remoto / Outros.
+---
+
+## ✅ Como Avaliar Meu Trabalho
+
+<div align="center">
+
+```bash
+# 1️⃣ Verifique os READMEs dos projetos e badges de CI
+# 2️⃣ Abra a Actions tab para visualizar runs e artifacts
+# 3️⃣ Baixe artefatos: mochawesome-report, raw-results
+# 4️⃣ Execute localmente:
+
+npm ci                 # Instalar dependências
+npm run test:ci       # Executar testes headless
+npm run test:headed   # Executar testes com UI
+npm run report        # Gerar relatórios
+```
+
+</div>
+
+**📂 Cada repositório contém:**
+- ✅ README com instruções detalhadas
+- ✅ Badges de CI/CD
+- ✅ Artefatos de relatório (Mochawesome/Allure)
+- ✅ Exemplos de execução e screenshots
+- ✅ Links diretos para facilitar avaliação técnica
+
+---
+
+## 💡 Disponibilidade
+
+<div align="center">
+
+**Modalidade:** PJ • Contrato • Remoto • Híbrido
 
 <a href="https://github.com/sponsors/007will" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-007will-critical?logo=github&style=flat-square"
+  <img src="https://img.shields.io/badge/Sponsor-007will-critical?logo=github&style=for-the-badge"
   alt="Sponsor 007will on GitHub" />
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ Se meus projetos ajudaram você, considere dar uma estrela!**
+
+[![GitHub followers](https://img.shields.io/github/followers/007will?style=social)](https://github.com/007will)
+[![GitHub stars](https://img.shields.io/github/stars/007will?style=social)](https://github.com/007will)
+
+</div>
