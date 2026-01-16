@@ -15,7 +15,7 @@
 
 <br/>
 
-📍 **Brasil** | 💬 [Telegram](https://t.me/WillamsRocha) | 💼 **Disponível para PJ/Remoto**
+📍 **Brasília/DF** | **Brasil** | 💬 [Telegram](https://t.me/WillamsRocha) | 💼 **Disponível para CLT/PJ/Remoto/Híbrido**
 
 ---
 
