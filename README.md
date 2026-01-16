@@ -10,6 +10,8 @@
 <img src="https://img.shields.io/badge/Bugs%20Found-10%2B%20Critical-red?style=for-the-badge&logo=bugatti&logoColor=white"/>
 <br/>
 📍 **Brasília/DF** | **Brasil** | 💬 [Telegram](https://t.me/WillamsRocha) | 💼 **Disponível para CLT/PJ/Remoto/Híbrido**
+
+---
 <br/>
 
 
