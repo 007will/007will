@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=QA%20Engineer&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Test%20Automation%20%E2%80%A2%20API%20Testing%20%E2%80%A2%20CI/CD&descAlignY=55"/>
 
 <h1>👋 Olá, eu sou José Willams</h1>
-<br/>
+
 <img src="https://img.shields.io/badge/Experience-8%2B%20Years-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Projects-50%2B-blue?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Test%20Coverage-95%25-green?style=for-the-badge&logo=codecov&logoColor=white"/>
