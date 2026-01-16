@@ -4,6 +4,7 @@
 
 <h1>👋 Olá, eu sou José Willams</h1>
 📍 Brasília/DF | Brasil | 💬Telegram: https://t.me/WillamsRocha
+---
 <img src="https://img.shields.io/badge/Experience-8%2B%20Years-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Projects-50%2B-blue?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Test%20Coverage-95%25-green?style=for-the-badge&logo=codecov&logoColor=white"/>
