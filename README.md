@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Experience-8%2B%20Years-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Projects-50%2B-blue?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Test%20Coverage-95%25-green?style=for-the-badge&logo=codecov&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bugs%20Found-10%2B%20Critical-red?style=for-the-badge&logo=bugatti&logoColor=white"/>
@@ -14,13 +14,6 @@
 <br/>
 
 📍 **Brasília/DF, Brasil** | 💬 [Telegram](https://t.me/WillamsRocha) | 💼 **CLT • PJ • Remoto • Híbrido**
-
-<br/>
-
-<a href="https://linkedin.com/in/007will"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/007will"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="mailto:renome@live.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://instagram.com/007willl"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 </div>
 
@@ -129,93 +122,7 @@ const qaEngineer = {
 };
 ```
 
----
 
-## 🎓 Formação e Cursos Relevantes
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[📚 Formação Acadêmica] --> B[Análise e Desenvolvimento de Sistemas<br/>UDF - Faculdade]
-    
-    C[🎯 Certificações QA] --> D1[Cypress Skills<br/>Fernando Papito - Kiwify]
-    C --> D2[Testando Componentes com Cypress<br/>Fernando Papito - Udemy]
-    C --> D3[Preparatório CTFL - ISTQB/BSTQB<br/>Leonardo Carvalho - Udemy]
-    
-    E[💻 Desenvolvimento] --> F1[Orientação a Objetos com Java<br/>Jackson Pires - Udemy]
-    E --> F2[Algoritmos e Lógica de Programação<br/>Nélio Alves - Udemy]
-    E --> F3[Javascript Avançado<br/>Eduardo Mafra - Udemy]
-    
-    style A fill:#2d3748,stroke:#4a5568,color:#fff
-    style C fill:#2d3748,stroke:#4a5568,color:#fff
-    style E fill:#2d3748,stroke:#4a5568,color:#fff
-    style B fill:#1a202c,stroke:#2d3748,color:#fff
-    style D1 fill:#1a202c,stroke:#2d3748,color:#fff
-    style D2 fill:#1a202c,stroke:#2d3748,color:#fff
-    style D3 fill:#1a202c,stroke:#2d3748,color:#fff
-    style F1 fill:#1a202c,stroke:#2d3748,color:#fff
-    style F2 fill:#1a202c,stroke:#2d3748,color:#fff
-    style F3 fill:#1a202c,stroke:#2d3748,color:#fff
-```
-
-</div>
-
-<details>
-<summary><b>📖 Ver Lista Completa de Cursos</b></summary>
-
-<table>
-<thead>
-<tr>
-<th>📚 Categoria</th>
-<th>🎓 Curso/Formação</th>
-<th>👨‍🏫 Instrutor/Instituição</th>
-<th>🏢 Plataforma</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td rowspan="1"><b>🎓 Graduação</b></td>
-<td>Análise e Desenvolvimento de Sistemas</td>
-<td>UDF</td>
-<td>Faculdade</td>
-</tr>
-<tr>
-<td rowspan="3"><b>🧪 Automação QA</b></td>
-<td>Cypress Skills</td>
-<td>Fernando Papito</td>
-<td>Kiwify</td>
-</tr>
-<tr>
-<td>Testando Componentes com Cypress</td>
-<td>Fernando Papito</td>
-<td>Udemy</td>
-</tr>
-<tr>
-<td>Preparatório Certificação CTFL (ISTQB/BSTQB)</td>
-<td>Leonardo Carvalho</td>
-<td>Udemy</td>
-</tr>
-<tr>
-<td rowspan="3"><b>💻 Desenvolvimento</b></td>
-<td>Orientação a Objetos com Java</td>
-<td>Jackson Pires</td>
-<td>Udemy</td>
-</tr>
-<tr>
-<td>Algoritmos e Lógica de Programação</td>
-<td>Nélio Alves</td>
-<td>Udemy</td>
-</tr>
-<tr>
-<td>Javascript Avançado</td>
-<td>Eduardo Mafra</td>
-<td>Udemy</td>
-</tr>
-</tbody>
-</table>
-
-</details>
 
 ---
 
@@ -370,9 +277,9 @@ graph LR
 
 **📂 Para mais detalhes sobre experiência profissional, tecnologias e métricas completas:**
 
-[![Portfolio QA](https://img.shields.io/badge/📊_Portfolio_Completo-Ver_Detalhes-00D9FF?style=for-the-badge)](./QA_PORTFOLIO_REPORT.md)
+[![Portfolio QA](https://img.shields.io/badge/📊_Portfolio_Completo-Ver_Detalhes-00D9FF?style=for-the-badge)](https://github.com/007will/qa-automation-portfolio)
 
-_Inclui: Experiência profissional detalhada • Tecnologias completas • Bugs documentados • Relatórios de análise • Arquitetura de testes_
+_Inclui: Experiência profissional detalhada • Formação & Cursos • Tecnologias completas • Bugs documentados • Relatórios de análise • Arquitetura de testes_
 
 </div>
 
