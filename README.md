@@ -3,11 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=QA%20Engineer&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Test%20Automation%20%E2%80%A2%20API%20Testing%20%E2%80%A2%20CI/CD&descAlignY=55"/>
 
 <h1>👋 Olá, eu sou José Willams</h1>
-
-<a href="https://linkedin.com/in/007will"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/007will"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="mailto:renome@live.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://instagram.com/007willl"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"></a>
+📍 **Brasília/DF** | **Brasil** | 💬 [Telegram](https://t.me/WillamsRocha) | 💼 **Disponível para CLT/PJ/Remoto/Híbrido**
 
 ---
 
@@ -21,8 +17,6 @@
 <img src="https://img.shields.io/badge/Bugs%20Found-10%2B%20Critical-red?style=for-the-badge&logo=bugatti&logoColor=white"/>
 
 <br/>
-
-📍 **Brasília/DF** | **Brasil** | 💬 [Telegram](https://t.me/WillamsRocha) | 💼 **Disponível para CLT/PJ/Remoto/Híbrido**
 
 ---
 
@@ -482,7 +476,11 @@ npm run report        # Gerar relatórios
 
 <div align="center">
 
-**Modalidade:** PJ • Contrato • Remoto • Híbrido
+**Modalidade:** CLT • PJ • Contrato • Remoto • Híbrido
+<a href="https://linkedin.com/in/007will"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/007will"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:renome@live.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://instagram.com/007willl"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <a href="https://github.com/sponsors/007will" target="_blank">
   <img src="https://img.shields.io/badge/Sponsor-007will-critical?logo=github&style=for-the-badge"
