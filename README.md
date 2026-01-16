@@ -21,6 +21,8 @@
 
 ## 📋 Sobre Mim
 
+<div align="center">
+
 <table>
 <tr>
 <td width="60%">
@@ -44,9 +46,13 @@ Experiência em automação de UI e API, arquitetura de testes e integração co
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## 🎯 Destaques & Métricas
+
+<div align="center">
 
 <table>
 <tr>
@@ -74,6 +80,8 @@ Experiência em automação de UI e API, arquitetura de testes e integração co
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -127,6 +135,8 @@ const qaEngineer = {
 ---
 
 ## 🚀 Projetos em Destaque
+
+<div align="center">
 
 <table>
 <thead>
@@ -268,6 +278,8 @@ const qaEngineer = {
 
 </tbody>
 </table>
+
+</div>
 
 ---
 
