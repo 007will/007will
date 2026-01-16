@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Bugs%20Found-10%2B%20Critical-red?style=for-the-badge&logo=bugatti&logoColor=white"/>
 
 <br/>
----
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Test+Automation+%7C+SDET;Cypress+%E2%80%A2+Playwright+%E2%80%A2+API+Testing;CI%2FCD+%E2%80%A2+Azure+DevOps+%E2%80%A2+GitHub+Actions;95%25+de+Cobertura+de+Testes;10%2B+Bugs+Cr%C3%ADticos+Identificados;80%2B+Endpoints+Testados)](https://git.io/typing-svg)
 
