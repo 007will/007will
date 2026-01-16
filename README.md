@@ -8,8 +8,8 @@
 <a href="https://github.com/007will"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:renome@live.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://instagram.com/007willl"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<br/>
-</div>
+
+---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Test+Automation+%7C+SDET;Cypress+%E2%80%A2+Playwright+%E2%80%A2+API+Testing;CI%2FCD+%E2%80%A2+Azure+DevOps+%E2%80%A2+GitHub+Actions;95%25+de+Cobertura+de+Testes;10%2B+Bugs+Cr%C3%ADticos+Identificados;80%2B+Endpoints+Testados)](https://git.io/typing-svg)
 
