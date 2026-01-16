@@ -4,17 +4,15 @@
 
 <h1>👋 Olá, eu sou José Willams</h1>
 📍 Brasília/DF | Brasil | 💬Telegram: https://t.me/WillamsRocha
-
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Test+Automation+%7C+SDET;Cypress+%E2%80%A2+Playwright+%E2%80%A2+API+Testing;CI%2FCD+%E2%80%A2+Azure+DevOps+%E2%80%A2+GitHub+Actions;95%25+de+Cobertura+de+Testes;10%2B+Bugs+Cr%C3%ADticos+Identificados;80%2B+Endpoints+Testados)](https://git.io/typing-svg)
-
-<br/>
-
 <img src="https://img.shields.io/badge/Experience-8%2B%20Years-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Projects-50%2B-blue?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Test%20Coverage-95%25-green?style=for-the-badge&logo=codecov&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bugs%20Found-10%2B%20Critical-red?style=for-the-badge&logo=bugatti&logoColor=white"/>
+
+<br/>
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Test+Automation+%7C+SDET;Cypress+%E2%80%A2+Playwright+%E2%80%A2+API+Testing;CI%2FCD+%E2%80%A2+Azure+DevOps+%E2%80%A2+GitHub+Actions;95%25+de+Cobertura+de+Testes;10%2B+Bugs+Cr%C3%ADticos+Identificados;80%2B+Endpoints+Testados)](https://git.io/typing-svg)
 
 <br/>
 
