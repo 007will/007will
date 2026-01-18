@@ -110,6 +110,7 @@ Quality professional with **4+ years of experience** in test automation, API val
 <div align="center">
 
 ### ⭐ Se meus projetos ajudaram você, considere dar uma estrela!
+### ⭐ If my projects helped you, please consider giving them a star!
 
 ![Followers](https://img.shields.io/github/followers/007will?style=social)
 ![Stars](https://img.shields.io/github/stars/007will?style=social)
