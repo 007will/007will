@@ -19,7 +19,7 @@
 
 ---
 
-## 📋 Sobre Mim
+## 📋 About Me - Sobre Mim
 
 Quality professional with **4+ years of experience** in test automation, API validation, and quality assurance. Currently working at **Aw4 Engenharia** focusing on Cypress/Playwright automation and REST API testing.
 
