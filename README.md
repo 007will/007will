@@ -8,8 +8,6 @@
 
 ## 👋 Olá, eu sou José Willams
 
-### 95% de Cobertura de Testes
-
 ![EXPERIENCE](https://img.shields.io/badge/EXPERIENCE-4%2B%20YEARS-brightgreen?style=for-the-badge)
 ![PROJECTS](https://img.shields.io/badge/PROJECTS-50%2B-blue?style=for-the-badge)
 ![TEST COVERAGE](https://img.shields.io/badge/TEST%20COVERAGE-95%25-success?style=for-the-badge)
