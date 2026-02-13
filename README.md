@@ -74,16 +74,6 @@ Quality professional with **4+ years of experience** in test automation, API val
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=007will&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=007will&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
----
-
 ## 🎓 Certifications & Education
 
 - 🎓 **Análise e Desenvolvimento de Sistemas** - UDF
