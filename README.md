@@ -21,7 +21,7 @@
 
 ## 📋 About Me - Sobre Mim
 
-Quality professional with **4+ years of experience** in Software Quality Assurance, focused on software quality, reliability, and performance across the full SDLC. My current goal is continuous growth, technical specialization as an **SQA Engineer**, and achievement of strategic certifications.
+Quality professional with **5+ years of experience** in Software Quality Assurance, focused on software quality, reliability, and performance across the full SDLC. My current goal is continuous growth, technical specialization as an **SQA Engineer**, and achievement of strategic certifications.
 
 At the moment, I am dedicated to quality assurance initiatives in a **confidential financial project**, with strong emphasis on risk analysis, validation of critical requirements, and support for reliable continuous delivery.
 
@@ -32,7 +32,7 @@ At the moment, I am dedicated to quality assurance initiatives in a **confidenti
 
 ## 💼 Professional Experience
 
-- **Quality Assurance Analyst — NTT Data** (Feb 2026 - Present)  
+- **Quality Assurance Analyst — Confidential company** (Feb 2026 - Present)  
   Quality analysis and assurance for critical systems in an agile environment, including test planning/execution, requirements validation, risk identification, and support for continuous delivery with focus on high availability and reliability.
 
 - **Quality Assurance / Quality Engineer — Aw4 Engenharia** (Jan 2022 - Feb 2026)  
