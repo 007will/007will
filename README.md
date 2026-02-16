@@ -25,7 +25,7 @@ Quality professional with **5+ years of experience** in Software Quality Assuran
 
 At the moment, I am dedicated to quality assurance initiatives in a **confidential financial project**, with strong emphasis on risk analysis, validation of critical requirements, and support for reliable continuous delivery.
 
-**Current Role:** Quality Assurance Analyst @ NTT Data (Feb 2026 - Present)  
+**Current Role:** Quality Assurance Analyst @ Confidential company (Feb 2026 - Present)  
 **Project Context:** Major Financial Institution (Confidential Client)
 
 ---
