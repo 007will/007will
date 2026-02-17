@@ -13,7 +13,7 @@
 ![TEST COVERAGE](https://img.shields.io/badge/TEST%20COVERAGE-95%25-success?style=for-the-badge)
 ![BUGS FOUND](https://img.shields.io/badge/BUGS%20FOUND-10%2B%20CRITICAL-red?style=for-the-badge)
 
-📍 Brasília/DF, Brasil | 💬 [Telegram](https://t.me/WillamsRocha) | 🏢 CLT • Remoto • Híbrido
+📍 Brasília/DF, Brasil | 💬 [Telegram](https://t.me/WillamsRocha) | 🏢 • Remoto • Híbrido
 
 </div>
 
